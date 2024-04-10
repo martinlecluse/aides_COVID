@@ -1,0 +1,57 @@
+.dashboard.title {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+
+  .dashboard.title h1 {
+    margin-left: 100px;
+    font-weight: bold;
+  }
+  
+  .dashboard.content {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .dashboard.map {
+    width: 40%;
+  }
+  
+  .dashboard.donnees {
+    width: 100%;
+  }
+  .dashboard.filtres {
+    width: 100%;
+  }
+  
+  .dashboard.aff-donnees {
+    width: 50%;
+  }
+  
+  .dashboard.donnees-region {
+    margin-top: 20px;
+  }
+  
+  .dashboard.boutons-filtre-echelle-geo {
+    width: 100%;
+  }
+  
+  .dashboard.boutons-filtre-echelle-geo button {
+    margin: 5px;
+  }
+  
+  .dashboard h3 {
+    font-size: xx-large;
+  }
+  
+  .dashboard.map svg {
+    color: white;
+  }
+  
+  .dashboard.point {
+    font-weight: bold;
+    margin-right: 5px; /* Pour ajuster l'espace entre le point et le texte */
+  }

@@ -1,0 +1,951 @@
+dispositif,volet,nombre_aides,nombre_entreprises,montant_total,reg,libelle_region,dep,libelle_departement,code_categorie_juridique,libelle_categorie_juridique
+Fonds de solidarité,VOLET1,38167,9021,69039921.00,84,Auvergne-Rhône-Alpes,01,Ain,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,8,3,9076.00,84,Auvergne-Rhône-Alpes,01,Ain,21,Indivision
+Fonds de solidarité,VOLET1,26,3,113725.00,84,Auvergne-Rhône-Alpes,01,Ain,22,Société créée de fait
+Fonds de solidarité,VOLET1,236,34,1631115.00,84,Auvergne-Rhône-Alpes,01,Ain,52,Société en nom collectif
+Fonds de solidarité,VOLET1,18012,3785,82642322.00,84,Auvergne-Rhône-Alpes,01,Ain,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,68,12,1825915.00,84,Auvergne-Rhône-Alpes,01,Ain,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,10055,2021,53869679.00,84,Auvergne-Rhône-Alpes,01,Ain,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,457,127,1304797.00,84,Auvergne-Rhône-Alpes,01,Ain,65,Société civile
+Fonds de solidarité,VOLET1,1537,241,7910540.00,84,Auvergne-Rhône-Alpes,01,Ain,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,25941,5738,47984626.00,84,Auvergne-Rhône-Alpes,03,Allier,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,36,6,159088.00,84,Auvergne-Rhône-Alpes,03,Allier,21,Indivision
+Fonds de solidarité,VOLET1,7,3,10500.00,84,Auvergne-Rhône-Alpes,03,Allier,22,Société créée de fait
+Fonds de solidarité,VOLET1,259,30,1151106.00,84,Auvergne-Rhône-Alpes,03,Allier,52,Société en nom collectif
+Fonds de solidarité,VOLET1,8968,1806,40514189.00,84,Auvergne-Rhône-Alpes,03,Allier,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,36,9,1496484.00,84,Auvergne-Rhône-Alpes,03,Allier,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,4555,831,22875897.00,84,Auvergne-Rhône-Alpes,03,Allier,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1264,420,2138322.00,84,Auvergne-Rhône-Alpes,03,Allier,65,Société civile
+Fonds de solidarité,VOLET1,855,131,3184122.00,84,Auvergne-Rhône-Alpes,03,Allier,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,33888,6894,63111682.00,84,Auvergne-Rhône-Alpes,07,Ardèche,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,12,3,25148.00,84,Auvergne-Rhône-Alpes,07,Ardèche,21,Indivision
+Fonds de solidarité,VOLET1,70,11,263704.00,84,Auvergne-Rhône-Alpes,07,Ardèche,22,Société créée de fait
+Fonds de solidarité,VOLET1,144,24,1077720.00,84,Auvergne-Rhône-Alpes,07,Ardèche,52,Société en nom collectif
+Fonds de solidarité,VOLET1,13880,2535,66335602.00,84,Auvergne-Rhône-Alpes,07,Ardèche,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,41,6,329515.00,84,Auvergne-Rhône-Alpes,07,Ardèche,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,5261,907,30181695.00,84,Auvergne-Rhône-Alpes,07,Ardèche,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,634,181,2123479.00,84,Auvergne-Rhône-Alpes,07,Ardèche,65,Société civile
+Fonds de solidarité,VOLET1,1239,192,4651750.00,84,Auvergne-Rhône-Alpes,07,Ardèche,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,16343,3509,33780393.00,84,Auvergne-Rhône-Alpes,15,Cantal,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,30,7,80618.00,84,Auvergne-Rhône-Alpes,15,Cantal,22,Société créée de fait
+Fonds de solidarité,VOLET1,212,24,1455307.00,84,Auvergne-Rhône-Alpes,15,Cantal,52,Société en nom collectif
+Fonds de solidarité,VOLET1,4664,888,22188786.00,84,Auvergne-Rhône-Alpes,15,Cantal,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,43,6,380933.00,84,Auvergne-Rhône-Alpes,15,Cantal,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,1788,334,10186624.00,84,Auvergne-Rhône-Alpes,15,Cantal,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1136,392,1737623.00,84,Auvergne-Rhône-Alpes,15,Cantal,65,Société civile
+Fonds de solidarité,VOLET1,11,3,50500.00,84,Auvergne-Rhône-Alpes,15,Cantal,84,Organisme professionnel
+Fonds de solidarité,VOLET1,486,85,2070048.00,84,Auvergne-Rhône-Alpes,15,Cantal,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,50041,10763,83081578.00,84,Auvergne-Rhône-Alpes,26,Drôme,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,52,7,202470.00,84,Auvergne-Rhône-Alpes,26,Drôme,22,Société créée de fait
+Fonds de solidarité,VOLET1,184,29,961386.00,84,Auvergne-Rhône-Alpes,26,Drôme,52,Société en nom collectif
+Fonds de solidarité,VOLET1,13,3,214337.00,84,Auvergne-Rhône-Alpes,26,Drôme,53,Société en commandite
+Fonds de solidarité,VOLET1,20931,4103,97175691.00,84,Auvergne-Rhône-Alpes,26,Drôme,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,78,13,922418.00,84,Auvergne-Rhône-Alpes,26,Drôme,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,11930,2163,61284565.00,84,Auvergne-Rhône-Alpes,26,Drôme,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,19,7,99346.00,84,Auvergne-Rhône-Alpes,26,Drôme,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,819,221,3357005.00,84,Auvergne-Rhône-Alpes,26,Drôme,65,Société civile
+Fonds de solidarité,VOLET1,2451,357,8691674.00,84,Auvergne-Rhône-Alpes,26,Drôme,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,18642,4064,37400723.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,22,5,40225.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,22,Société créée de fait
+Fonds de solidarité,VOLET1,258,39,1416617.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,52,Société en nom collectif
+Fonds de solidarité,VOLET1,7306,1458,32827877.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,32,7,495781.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,3056,571,15416548.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,383,124,757316.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,65,Société civile
+Fonds de solidarité,VOLET1,855,145,2960888.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,97651,18772,200368143.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,154,30,465526.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,21,Indivision
+Fonds de solidarité,VOLET1,456,57,2336327.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,22,Société créée de fait
+Fonds de solidarité,VOLET1,420,68,4427431.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,52,Société en nom collectif
+Fonds de solidarité,VOLET1,29,3,801042.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,53,Société en commandite
+Fonds de solidarité,VOLET1,47712,8058,305766805.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,197,39,8961329.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,18,3,475261.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,20952,3517,178244274.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,14,3,52521.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,876,233,2435997.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,65,Société civile
+Fonds de solidarité,VOLET1,35,13,185144.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,84,Organisme professionnel
+Fonds de solidarité,VOLET1,1801,299,16177228.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,105833,22855,186659535.00,84,Auvergne-Rhône-Alpes,38,Isère,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,97,18,263878.00,84,Auvergne-Rhône-Alpes,38,Isère,21,Indivision
+Fonds de solidarité,VOLET1,99,17,348390.00,84,Auvergne-Rhône-Alpes,38,Isère,22,Société créée de fait
+Fonds de solidarité,VOLET1,20,5,294381.00,84,Auvergne-Rhône-Alpes,38,Isère,41,Etablissement public ou régie à caractère industriel ou commercial
+Fonds de solidarité,VOLET1,320,55,1897697.00,84,Auvergne-Rhône-Alpes,38,Isère,52,Société en nom collectif
+Fonds de solidarité,VOLET1,50229,9675,249889845.00,84,Auvergne-Rhône-Alpes,38,Isère,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,128,31,5536873.00,84,Auvergne-Rhône-Alpes,38,Isère,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,28525,5076,158516906.00,84,Auvergne-Rhône-Alpes,38,Isère,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,16,3,32984.00,84,Auvergne-Rhône-Alpes,38,Isère,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,773,225,1876074.00,84,Auvergne-Rhône-Alpes,38,Isère,65,Société civile
+Fonds de solidarité,VOLET1,20,5,60050.00,84,Auvergne-Rhône-Alpes,38,Isère,84,Organisme professionnel
+Fonds de solidarité,VOLET1,3846,612,18647912.00,84,Auvergne-Rhône-Alpes,38,Isère,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,55176,11922,96745605.00,84,Auvergne-Rhône-Alpes,42,Loire,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,69,13,220679.00,84,Auvergne-Rhône-Alpes,42,Loire,22,Société créée de fait
+Fonds de solidarité,VOLET1,624,80,2966679.00,84,Auvergne-Rhône-Alpes,42,Loire,52,Société en nom collectif
+Fonds de solidarité,VOLET1,22928,4761,102492916.00,84,Auvergne-Rhône-Alpes,42,Loire,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,95,17,2165153.00,84,Auvergne-Rhône-Alpes,42,Loire,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,7,3,1140317.00,84,Auvergne-Rhône-Alpes,42,Loire,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,14396,2776,69906768.00,84,Auvergne-Rhône-Alpes,42,Loire,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,711,235,1696488.00,84,Auvergne-Rhône-Alpes,42,Loire,65,Société civile
+Fonds de solidarité,VOLET1,2989,461,11400344.00,84,Auvergne-Rhône-Alpes,42,Loire,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,49818,10646,87999334.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,40,11,55287.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,21,Indivision
+Fonds de solidarité,VOLET1,48,10,86386.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,22,Société créée de fait
+Fonds de solidarité,VOLET1,300,41,1910019.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,52,Société en nom collectif
+Fonds de solidarité,VOLET1,25843,4834,122619902.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,111,26,2991179.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,10188,1862,57991098.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,33,3,43827.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,513,155,1071887.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,65,Société civile
+Fonds de solidarité,VOLET1,1750,279,8324367.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,186370,37749,306320428.00,84,Auvergne-Rhône-Alpes,69,Rhône,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,54,11,123151.00,84,Auvergne-Rhône-Alpes,69,Rhône,21,Indivision
+Fonds de solidarité,VOLET1,108,24,488409.00,84,Auvergne-Rhône-Alpes,69,Rhône,22,Société créée de fait
+Fonds de solidarité,VOLET1,649,113,4380468.00,84,Auvergne-Rhône-Alpes,69,Rhône,52,Société en nom collectif
+Fonds de solidarité,VOLET1,23,4,301640.00,84,Auvergne-Rhône-Alpes,69,Rhône,53,Société en commandite
+Fonds de solidarité,VOLET1,84960,16087,401647390.00,84,Auvergne-Rhône-Alpes,69,Rhône,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,171,38,3798568.00,84,Auvergne-Rhône-Alpes,69,Rhône,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,30,6,2681934.00,84,Auvergne-Rhône-Alpes,69,Rhône,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,62522,10955,340826059.00,84,Auvergne-Rhône-Alpes,69,Rhône,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,45,9,393723.00,84,Auvergne-Rhône-Alpes,69,Rhône,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,1634,436,5710327.00,84,Auvergne-Rhône-Alpes,69,Rhône,65,Société civile
+Fonds de solidarité,VOLET1,22,4,33000.00,84,Auvergne-Rhône-Alpes,69,Rhône,84,Organisme professionnel
+Fonds de solidarité,VOLET1,8011,1139,35372813.00,84,Auvergne-Rhône-Alpes,69,Rhône,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,14,3,51225.00,84,Auvergne-Rhône-Alpes,69,Rhône,93,Fondation
+Fonds de solidarité,VOLET1,88481,14314,216771469.00,84,Auvergne-Rhône-Alpes,73,Savoie,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,365,76,1104375.00,84,Auvergne-Rhône-Alpes,73,Savoie,21,Indivision
+Fonds de solidarité,VOLET1,124,21,633771.00,84,Auvergne-Rhône-Alpes,73,Savoie,22,Société créée de fait
+Fonds de solidarité,VOLET1,608,83,6872338.00,84,Auvergne-Rhône-Alpes,73,Savoie,52,Société en nom collectif
+Fonds de solidarité,VOLET1,25,4,238610.00,84,Auvergne-Rhône-Alpes,73,Savoie,53,Société en commandite
+Fonds de solidarité,VOLET1,40111,6217,293625444.00,84,Auvergne-Rhône-Alpes,73,Savoie,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,267,50,17922450.00,84,Auvergne-Rhône-Alpes,73,Savoie,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,14647,2286,169549158.00,84,Auvergne-Rhône-Alpes,73,Savoie,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,20,3,273193.00,84,Auvergne-Rhône-Alpes,73,Savoie,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,972,242,3797642.00,84,Auvergne-Rhône-Alpes,73,Savoie,65,Société civile
+Fonds de solidarité,VOLET1,138,35,1113331.00,84,Auvergne-Rhône-Alpes,73,Savoie,84,Organisme professionnel
+Fonds de solidarité,VOLET1,1700,278,13177073.00,84,Auvergne-Rhône-Alpes,73,Savoie,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,35104,7715,59444907.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,41,10,67300.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,21,Indivision
+Fonds de solidarité,VOLET1,3,3,18890.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,22,Société créée de fait
+Fonds de solidarité,VOLET1,194,30,1173856.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,52,Société en nom collectif
+Fonds de solidarité,VOLET1,22276,4180,116865350.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,121,21,3832161.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,7214,1303,45549946.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,20,3,89057.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,1091,327,6632449.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,65,Société civile
+Fonds de solidarité,VOLET1,1458,218,6834960.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,30535,6641,53103920.00,27,Bourgogne-Franche-Comté,25,Doubs,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,23,3,49090.00,27,Bourgogne-Franche-Comté,25,Doubs,21,Indivision
+Fonds de solidarité,VOLET1,26,8,80183.00,27,Bourgogne-Franche-Comté,25,Doubs,22,Société créée de fait
+Fonds de solidarité,VOLET1,156,29,819939.00,27,Bourgogne-Franche-Comté,25,Doubs,52,Société en nom collectif
+Fonds de solidarité,VOLET1,17133,3408,83136795.00,27,Bourgogne-Franche-Comté,25,Doubs,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,40,9,1444144.00,27,Bourgogne-Franche-Comté,25,Doubs,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,6287,1172,31958860.00,27,Bourgogne-Franche-Comté,25,Doubs,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,23,3,98720.00,27,Bourgogne-Franche-Comté,25,Doubs,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,257,63,551337.00,27,Bourgogne-Franche-Comté,25,Doubs,65,Société civile
+Fonds de solidarité,VOLET1,1435,225,7370100.00,27,Bourgogne-Franche-Comté,25,Doubs,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,13263,2958,23368986.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,21,3,89534.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,22,Société créée de fait
+Fonds de solidarité,VOLET1,101,11,480070.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,52,Société en nom collectif
+Fonds de solidarité,VOLET1,5202,1129,22270834.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,13,3,25978.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,1907,380,9269611.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,200,57,426436.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,65,Société civile
+Fonds de solidarité,VOLET1,275,65,847102.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,17433,3764,31511978.00,27,Bourgogne-Franche-Comté,39,Jura,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,132,14,695966.00,27,Bourgogne-Franche-Comté,39,Jura,52,Société en nom collectif
+Fonds de solidarité,VOLET1,8223,1631,41456351.00,27,Bourgogne-Franche-Comté,39,Jura,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,24,5,880876.00,27,Bourgogne-Franche-Comté,39,Jura,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,4263,826,22036106.00,27,Bourgogne-Franche-Comté,39,Jura,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,442,106,1609057.00,27,Bourgogne-Franche-Comté,39,Jura,65,Société civile
+Fonds de solidarité,VOLET1,12,3,26465.00,27,Bourgogne-Franche-Comté,39,Jura,84,Organisme professionnel
+Fonds de solidarité,VOLET1,684,112,4479961.00,27,Bourgogne-Franche-Comté,39,Jura,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,13236,2826,25847011.00,27,Bourgogne-Franche-Comté,58,Nièvre,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,230,27,949843.00,27,Bourgogne-Franche-Comté,58,Nièvre,52,Société en nom collectif
+Fonds de solidarité,VOLET1,5517,1055,25947833.00,27,Bourgogne-Franche-Comté,58,Nièvre,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,21,3,127015.00,27,Bourgogne-Franche-Comté,58,Nièvre,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,1970,372,10636082.00,27,Bourgogne-Franche-Comté,58,Nièvre,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,364,124,1374074.00,27,Bourgogne-Franche-Comté,58,Nièvre,65,Société civile
+Fonds de solidarité,VOLET1,518,83,1922066.00,27,Bourgogne-Franche-Comté,58,Nièvre,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,38427,8159,73702013.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,34,4,168850.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,21,Indivision
+Fonds de solidarité,VOLET1,26,5,101873.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,22,Société créée de fait
+Fonds de solidarité,VOLET1,197,23,984224.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,52,Société en nom collectif
+Fonds de solidarité,VOLET1,18322,3522,87572612.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,63,11,1130509.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,7148,1292,42654225.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,16,4,202365.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,1295,416,4896475.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,65,Société civile
+Fonds de solidarité,VOLET1,1635,243,6435924.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,6845,1517,12568724.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,31,5,107953.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,52,Société en nom collectif
+Fonds de solidarité,VOLET1,4251,835,22137681.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,16,3,68748.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,1716,317,6938737.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,56,16,100664.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,65,Société civile
+Fonds de solidarité,VOLET1,217,31,2197145.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,20401,4510,37283999.00,27,Bourgogne-Franche-Comté,89,Yonne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,215,32,1351640.00,27,Bourgogne-Franche-Comté,89,Yonne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,9142,1802,43522677.00,27,Bourgogne-Franche-Comté,89,Yonne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,4546,871,24154574.00,27,Bourgogne-Franche-Comté,89,Yonne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1041,224,6852106.00,27,Bourgogne-Franche-Comté,89,Yonne,65,Société civile
+Fonds de solidarité,VOLET1,752,117,2895502.00,27,Bourgogne-Franche-Comté,89,Yonne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,37583,8493,76095979.00,53,Bretagne,22,Côtes-d'Armor,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,12,7,10045.00,53,Bretagne,22,Côtes-d'Armor,21,Indivision
+Fonds de solidarité,VOLET1,65,12,253252.00,53,Bretagne,22,Côtes-d'Armor,22,Société créée de fait
+Fonds de solidarité,VOLET1,957,119,5693652.00,53,Bretagne,22,Côtes-d'Armor,52,Société en nom collectif
+Fonds de solidarité,VOLET1,21665,4193,109451776.00,53,Bretagne,22,Côtes-d'Armor,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,23,4,1136982.00,53,Bretagne,22,Côtes-d'Armor,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,3955,756,27155326.00,53,Bretagne,22,Côtes-d'Armor,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,700,244,2238274.00,53,Bretagne,22,Côtes-d'Armor,65,Société civile
+Fonds de solidarité,VOLET1,1696,258,7275127.00,53,Bretagne,22,Côtes-d'Armor,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,56181,13193,111929074.00,53,Bretagne,29,Finistère,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,47,13,121502.00,53,Bretagne,29,Finistère,21,Indivision
+Fonds de solidarité,VOLET1,37,9,51872.00,53,Bretagne,29,Finistère,22,Société créée de fait
+Fonds de solidarité,VOLET1,1622,198,10722039.00,53,Bretagne,29,Finistère,52,Société en nom collectif
+Fonds de solidarité,VOLET1,29943,5716,156354303.00,53,Bretagne,29,Finistère,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,97,16,1879275.00,53,Bretagne,29,Finistère,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,18,3,1499392.00,53,Bretagne,29,Finistère,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,8710,1586,59537987.00,53,Bretagne,29,Finistère,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,575,169,1829608.00,53,Bretagne,29,Finistère,65,Société civile
+Fonds de solidarité,VOLET1,2335,402,11887483.00,53,Bretagne,29,Finistère,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,63739,14443,114044179.00,53,Bretagne,35,Ille-et-Vilaine,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,23,8,38019.00,53,Bretagne,35,Ille-et-Vilaine,21,Indivision
+Fonds de solidarité,VOLET1,22,5,88429.00,53,Bretagne,35,Ille-et-Vilaine,22,Société créée de fait
+Fonds de solidarité,VOLET1,1140,165,7565882.00,53,Bretagne,35,Ille-et-Vilaine,52,Société en nom collectif
+Fonds de solidarité,VOLET1,43286,8247,232869666.00,53,Bretagne,35,Ille-et-Vilaine,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,100,16,3056290.00,53,Bretagne,35,Ille-et-Vilaine,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,8,3,916594.00,53,Bretagne,35,Ille-et-Vilaine,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,8705,1675,62538883.00,53,Bretagne,35,Ille-et-Vilaine,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,18,4,751560.00,53,Bretagne,35,Ille-et-Vilaine,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,697,184,1819331.00,53,Bretagne,35,Ille-et-Vilaine,65,Société civile
+Fonds de solidarité,VOLET1,3356,509,16622327.00,53,Bretagne,35,Ille-et-Vilaine,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,53706,12103,102190359.00,53,Bretagne,56,Morbihan,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,29,5,45981.00,53,Bretagne,56,Morbihan,21,Indivision
+Fonds de solidarité,VOLET1,85,15,367760.00,53,Bretagne,56,Morbihan,22,Société créée de fait
+Fonds de solidarité,VOLET1,1326,165,8913945.00,53,Bretagne,56,Morbihan,52,Société en nom collectif
+Fonds de solidarité,VOLET1,17,3,70401.00,53,Bretagne,56,Morbihan,53,Société en commandite
+Fonds de solidarité,VOLET1,32053,6107,164039168.00,53,Bretagne,56,Morbihan,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,57,12,2209494.00,53,Bretagne,56,Morbihan,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,8051,1513,49462040.00,53,Bretagne,56,Morbihan,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,881,236,2451726.00,53,Bretagne,56,Morbihan,65,Société civile
+Fonds de solidarité,VOLET1,2022,301,9182669.00,53,Bretagne,56,Morbihan,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,17580,3904,34543636.00,24,Centre-Val de Loire,18,Cher,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,18,3,41215.00,24,Centre-Val de Loire,18,Cher,21,Indivision
+Fonds de solidarité,VOLET1,194,30,997626.00,24,Centre-Val de Loire,18,Cher,52,Société en nom collectif
+Fonds de solidarité,VOLET1,7251,1449,33156698.00,24,Centre-Val de Loire,18,Cher,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,35,6,552623.00,24,Centre-Val de Loire,18,Cher,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,2962,565,15386873.00,24,Centre-Val de Loire,18,Cher,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,660,200,4678267.00,24,Centre-Val de Loire,18,Cher,65,Société civile
+Fonds de solidarité,VOLET1,551,92,2010006.00,24,Centre-Val de Loire,18,Cher,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,21379,4844,39860848.00,24,Centre-Val de Loire,28,Eure-et-Loir,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,26,5,94757.00,24,Centre-Val de Loire,28,Eure-et-Loir,22,Société créée de fait
+Fonds de solidarité,VOLET1,288,42,1678078.00,24,Centre-Val de Loire,28,Eure-et-Loir,52,Société en nom collectif
+Fonds de solidarité,VOLET1,10448,2230,48612218.00,24,Centre-Val de Loire,28,Eure-et-Loir,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,33,4,292414.00,24,Centre-Val de Loire,28,Eure-et-Loir,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,5776,1133,24343308.00,24,Centre-Val de Loire,28,Eure-et-Loir,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,218,55,404802.00,24,Centre-Val de Loire,28,Eure-et-Loir,65,Société civile
+Fonds de solidarité,VOLET1,609,116,2220651.00,24,Centre-Val de Loire,28,Eure-et-Loir,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,12968,2740,24254259.00,24,Centre-Val de Loire,36,Indre,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,28,3,36712.00,24,Centre-Val de Loire,36,Indre,22,Société créée de fait
+Fonds de solidarité,VOLET1,190,28,877796.00,24,Centre-Val de Loire,36,Indre,52,Société en nom collectif
+Fonds de solidarité,VOLET1,5301,1075,25140030.00,24,Centre-Val de Loire,36,Indre,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,32,6,1478891.00,24,Centre-Val de Loire,36,Indre,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,2174,391,11833054.00,24,Centre-Val de Loire,36,Indre,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,284,94,553802.00,24,Centre-Val de Loire,36,Indre,65,Société civile
+Fonds de solidarité,VOLET1,667,94,2681715.00,24,Centre-Val de Loire,36,Indre,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,42496,9357,74357939.00,24,Centre-Val de Loire,37,Indre-et-Loire,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,14,3,45383.00,24,Centre-Val de Loire,37,Indre-et-Loire,21,Indivision
+Fonds de solidarité,VOLET1,39,5,165891.00,24,Centre-Val de Loire,37,Indre-et-Loire,22,Société créée de fait
+Fonds de solidarité,VOLET1,454,62,3271497.00,24,Centre-Val de Loire,37,Indre-et-Loire,52,Société en nom collectif
+Fonds de solidarité,VOLET1,22634,4189,112152305.00,24,Centre-Val de Loire,37,Indre-et-Loire,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,54,13,895514.00,24,Centre-Val de Loire,37,Indre-et-Loire,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,9,3,1213000.00,24,Centre-Val de Loire,37,Indre-et-Loire,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,7913,1455,44890774.00,24,Centre-Val de Loire,37,Indre-et-Loire,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1604,350,8939013.00,24,Centre-Val de Loire,37,Indre-et-Loire,65,Société civile
+Fonds de solidarité,VOLET1,14,3,20400.00,24,Centre-Val de Loire,37,Indre-et-Loire,84,Organisme professionnel
+Fonds de solidarité,VOLET1,1912,299,7473997.00,24,Centre-Val de Loire,37,Indre-et-Loire,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,8,4,29000.00,24,Centre-Val de Loire,37,Indre-et-Loire,99,Autre personne morale de droit privé
+Fonds de solidarité,VOLET1,35463,8107,62186823.00,24,Centre-Val de Loire,45,Loiret,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,36,5,161084.00,24,Centre-Val de Loire,45,Loiret,22,Société créée de fait
+Fonds de solidarité,VOLET1,377,61,2194885.00,24,Centre-Val de Loire,45,Loiret,52,Société en nom collectif
+Fonds de solidarité,VOLET1,19081,3855,91747068.00,24,Centre-Val de Loire,45,Loiret,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,60,10,2244997.00,24,Centre-Val de Loire,45,Loiret,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,9014,1763,44007558.00,24,Centre-Val de Loire,45,Loiret,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,284,88,654148.00,24,Centre-Val de Loire,45,Loiret,65,Société civile
+Fonds de solidarité,VOLET1,1510,261,6424160.00,24,Centre-Val de Loire,45,Loiret,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,20751,4601,40541788.00,24,Centre-Val de Loire,41,Loir-et-Cher,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,34,9,44719.00,24,Centre-Val de Loire,41,Loir-et-Cher,21,Indivision
+Fonds de solidarité,VOLET1,255,34,1359777.00,24,Centre-Val de Loire,41,Loir-et-Cher,52,Société en nom collectif
+Fonds de solidarité,VOLET1,10478,2119,50264281.00,24,Centre-Val de Loire,41,Loir-et-Cher,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,19,4,180921.00,24,Centre-Val de Loire,41,Loir-et-Cher,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,3760,713,22174877.00,24,Centre-Val de Loire,41,Loir-et-Cher,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,620,154,2399320.00,24,Centre-Val de Loire,41,Loir-et-Cher,65,Société civile
+Fonds de solidarité,VOLET1,854,154,4544061.00,24,Centre-Val de Loire,41,Loir-et-Cher,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,22386,4587,49811337.00,94,Corse,2A,Corse-du-Sud,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,61,12,141019.00,94,Corse,2A,Corse-du-Sud,21,Indivision
+Fonds de solidarité,VOLET1,39,7,206252.00,94,Corse,2A,Corse-du-Sud,22,Société créée de fait
+Fonds de solidarité,VOLET1,116,20,748429.00,94,Corse,2A,Corse-du-Sud,52,Société en nom collectif
+Fonds de solidarité,VOLET1,14212,2289,94261000.00,94,Corse,2A,Corse-du-Sud,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,38,8,1138113.00,94,Corse,2A,Corse-du-Sud,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,8858,1470,53764716.00,94,Corse,2A,Corse-du-Sud,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,628,125,1830460.00,94,Corse,2A,Corse-du-Sud,65,Société civile
+Fonds de solidarité,VOLET1,495,67,2000263.00,94,Corse,2A,Corse-du-Sud,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,26806,4943,53576908.00,94,Corse,2B,Haute-Corse,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,31,5,105490.00,94,Corse,2B,Haute-Corse,21,Indivision
+Fonds de solidarité,VOLET1,48,12,205415.00,94,Corse,2B,Haute-Corse,22,Société créée de fait
+Fonds de solidarité,VOLET1,119,17,668183.00,94,Corse,2B,Haute-Corse,52,Société en nom collectif
+Fonds de solidarité,VOLET1,12893,1973,74453702.00,94,Corse,2B,Haute-Corse,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,28,8,536874.00,94,Corse,2B,Haute-Corse,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,9034,1438,50192277.00,94,Corse,2B,Haute-Corse,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,753,140,2148839.00,94,Corse,2B,Haute-Corse,65,Société civile
+Fonds de solidarité,VOLET1,615,93,1931848.00,94,Corse,2B,Haute-Corse,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,15277,3339,28787352.00,44,Grand Est,08,Ardennes,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,18,3,29017.00,44,Grand Est,08,Ardennes,21,Indivision
+Fonds de solidarité,VOLET1,18,3,34563.00,44,Grand Est,08,Ardennes,22,Société créée de fait
+Fonds de solidarité,VOLET1,187,22,865057.00,44,Grand Est,08,Ardennes,52,Société en nom collectif
+Fonds de solidarité,VOLET1,6088,1239,26912084.00,44,Grand Est,08,Ardennes,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,37,7,787239.00,44,Grand Est,08,Ardennes,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,2389,481,11327192.00,44,Grand Est,08,Ardennes,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,351,128,636636.00,44,Grand Est,08,Ardennes,65,Société civile
+Fonds de solidarité,VOLET1,560,84,2926670.00,44,Grand Est,08,Ardennes,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,20760,4392,49374192.00,44,Grand Est,10,Aube,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,42,8,202825.00,44,Grand Est,10,Aube,21,Indivision
+Fonds de solidarité,VOLET1,23,3,116431.00,44,Grand Est,10,Aube,22,Société créée de fait
+Fonds de solidarité,VOLET1,506,60,3076676.00,44,Grand Est,10,Aube,52,Société en nom collectif
+Fonds de solidarité,VOLET1,9446,1881,45336391.00,44,Grand Est,10,Aube,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,4252,787,22660623.00,44,Grand Est,10,Aube,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,7,3,36000.00,44,Grand Est,10,Aube,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,40,10,3840860.00,44,Grand Est,10,Aube,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,3745,997,28078387.00,44,Grand Est,10,Aube,65,Société civile
+Fonds de solidarité,VOLET1,571,98,2343187.00,44,Grand Est,10,Aube,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,76032,15908,132462902.00,44,Grand Est,67,Bas-Rhin,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,63,13,124643.00,44,Grand Est,67,Bas-Rhin,21,Indivision
+Fonds de solidarité,VOLET1,44,6,191564.00,44,Grand Est,67,Bas-Rhin,22,Société créée de fait
+Fonds de solidarité,VOLET1,46,9,120397.00,44,Grand Est,67,Bas-Rhin,29,Autre groupement de droit privé non doté de la personnalité morale
+Fonds de solidarité,VOLET1,172,27,1324710.00,44,Grand Est,67,Bas-Rhin,52,Société en nom collectif
+Fonds de solidarité,VOLET1,17,4,614830.00,44,Grand Est,67,Bas-Rhin,53,Société en commandite
+Fonds de solidarité,VOLET1,47896,9068,240517923.00,44,Grand Est,67,Bas-Rhin,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,176,30,3642473.00,44,Grand Est,67,Bas-Rhin,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,72,12,3284823.00,44,Grand Est,67,Bas-Rhin,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,24069,4530,149830687.00,44,Grand Est,67,Bas-Rhin,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,80,21,1705911.00,44,Grand Est,67,Bas-Rhin,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,5792,964,26091437.00,44,Grand Est,67,Bas-Rhin,65,Société civile
+Fonds de solidarité,VOLET1,3260,442,13800510.00,44,Grand Est,67,Bas-Rhin,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,8646,1910,15520021.00,44,Grand Est,52,Haute-Marne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,71,12,302632.00,44,Grand Est,52,Haute-Marne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,3869,776,18090720.00,44,Grand Est,52,Haute-Marne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,1675,336,8368226.00,44,Grand Est,52,Haute-Marne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,218,83,476734.00,44,Grand Est,52,Haute-Marne,65,Société civile
+Fonds de solidarité,VOLET1,335,64,1283973.00,44,Grand Est,52,Haute-Marne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,43090,9412,77138161.00,44,Grand Est,68,Haut-Rhin,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,33,5,86865.00,44,Grand Est,68,Haut-Rhin,21,Indivision
+Fonds de solidarité,VOLET1,12,3,160468.00,44,Grand Est,68,Haut-Rhin,22,Société créée de fait
+Fonds de solidarité,VOLET1,152,22,712698.00,44,Grand Est,68,Haut-Rhin,52,Société en nom collectif
+Fonds de solidarité,VOLET1,28870,5352,158991044.00,44,Grand Est,68,Haut-Rhin,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,129,21,5870275.00,44,Grand Est,68,Haut-Rhin,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,20,5,1387326.00,44,Grand Est,68,Haut-Rhin,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,14621,2663,85181223.00,44,Grand Est,68,Haut-Rhin,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,10,3,1250767.00,44,Grand Est,68,Haut-Rhin,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,3793,693,21587716.00,44,Grand Est,68,Haut-Rhin,65,Société civile
+Fonds de solidarité,VOLET1,1480,245,7437548.00,44,Grand Est,68,Haut-Rhin,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,44575,9954,116549467.00,44,Grand Est,51,Marne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,250,66,1361699.00,44,Grand Est,51,Marne,21,Indivision
+Fonds de solidarité,VOLET1,18,5,28223.00,44,Grand Est,51,Marne,22,Société créée de fait
+Fonds de solidarité,VOLET1,517,83,3043858.00,44,Grand Est,51,Marne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,20407,4004,106638182.00,44,Grand Est,51,Marne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,131,26,3436055.00,44,Grand Est,51,Marne,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,24,6,1034644.00,44,Grand Est,51,Marne,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,8894,1613,59970477.00,44,Grand Est,51,Marne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,30,10,41817.00,44,Grand Est,51,Marne,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,515,136,22546540.00,44,Grand Est,51,Marne,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,12977,3491,80938011.00,44,Grand Est,51,Marne,65,Société civile
+Fonds de solidarité,VOLET1,1025,181,3854186.00,44,Grand Est,51,Marne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,40214,8717,66749759.00,44,Grand Est,54,Meurthe-et-Moselle,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,31,6,125295.00,44,Grand Est,54,Meurthe-et-Moselle,22,Société créée de fait
+Fonds de solidarité,VOLET1,183,27,802618.00,44,Grand Est,54,Meurthe-et-Moselle,52,Société en nom collectif
+Fonds de solidarité,VOLET1,18847,3811,86523038.00,44,Grand Est,54,Meurthe-et-Moselle,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,83,16,2310030.00,44,Grand Est,54,Meurthe-et-Moselle,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,8582,1599,46419040.00,44,Grand Est,54,Meurthe-et-Moselle,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,23,3,33812.00,44,Grand Est,54,Meurthe-et-Moselle,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,342,100,686698.00,44,Grand Est,54,Meurthe-et-Moselle,65,Société civile
+Fonds de solidarité,VOLET1,1507,247,6315638.00,44,Grand Est,54,Meurthe-et-Moselle,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,9517,2069,18057344.00,44,Grand Est,55,Meuse,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,27,4,151000.00,44,Grand Est,55,Meuse,22,Société créée de fait
+Fonds de solidarité,VOLET1,127,17,1147633.00,44,Grand Est,55,Meuse,52,Société en nom collectif
+Fonds de solidarité,VOLET1,3651,725,16488565.00,44,Grand Est,55,Meuse,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,1651,324,6985509.00,44,Grand Est,55,Meuse,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,204,60,360103.00,44,Grand Est,55,Meuse,65,Société civile
+Fonds de solidarité,VOLET1,361,43,1752550.00,44,Grand Est,55,Meuse,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,47984,10702,84716344.00,44,Grand Est,57,Moselle,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,42,7,129073.00,44,Grand Est,57,Moselle,22,Société créée de fait
+Fonds de solidarité,VOLET1,121,14,767986.00,44,Grand Est,57,Moselle,52,Société en nom collectif
+Fonds de solidarité,VOLET1,25395,5083,129225057.00,44,Grand Est,57,Moselle,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,38,9,1093920.00,44,Grand Est,57,Moselle,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,16794,3259,80766759.00,44,Grand Est,57,Moselle,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,410,131,678801.00,44,Grand Est,57,Moselle,65,Société civile
+Fonds de solidarité,VOLET1,1421,209,9176838.00,44,Grand Est,57,Moselle,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,25232,5301,46083671.00,44,Grand Est,88,Vosges,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,17,3,28503.00,44,Grand Est,88,Vosges,21,Indivision
+Fonds de solidarité,VOLET1,42,6,130401.00,44,Grand Est,88,Vosges,22,Société créée de fait
+Fonds de solidarité,VOLET1,158,28,865575.00,44,Grand Est,88,Vosges,52,Société en nom collectif
+Fonds de solidarité,VOLET1,13984,2759,63997173.00,44,Grand Est,88,Vosges,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,71,13,3118093.00,44,Grand Est,88,Vosges,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,5433,1019,28232237.00,44,Grand Est,88,Vosges,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,311,77,637218.00,44,Grand Est,88,Vosges,65,Société civile
+Fonds de solidarité,VOLET1,746,134,2445844.00,44,Grand Est,88,Vosges,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,71284,12436,110329804.00,01,Guadeloupe,971,Guadeloupe,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,34,5,265110.00,01,Guadeloupe,971,Guadeloupe,23,Société en participation
+Fonds de solidarité,VOLET1,97,13,717236.00,01,Guadeloupe,971,Guadeloupe,52,Société en nom collectif
+Fonds de solidarité,VOLET1,18888,3383,75401391.00,01,Guadeloupe,971,Guadeloupe,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,34,8,3190467.00,01,Guadeloupe,971,Guadeloupe,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,16953,2945,50862471.00,01,Guadeloupe,971,Guadeloupe,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1000,203,1743846.00,01,Guadeloupe,971,Guadeloupe,65,Société civile
+Fonds de solidarité,VOLET1,940,201,1756754.00,01,Guadeloupe,971,Guadeloupe,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,29545,3814,56437589.00,03,Guyane,973,Guyane,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,22,4,354577.00,03,Guyane,973,Guyane,52,Société en nom collectif
+Fonds de solidarité,VOLET1,6301,911,19502085.00,03,Guyane,973,Guyane,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,20,4,2015000.00,03,Guyane,973,Guyane,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,9348,1304,23899308.00,03,Guyane,973,Guyane,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,12,3,30000.00,03,Guyane,973,Guyane,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,344,57,669998.00,03,Guyane,973,Guyane,65,Société civile
+Fonds de solidarité,VOLET1,468,79,996792.00,03,Guyane,973,Guyane,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,25935,5528,51216885.00,32,Hauts-de-France,02,Aisne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,13,5,46996.00,32,Hauts-de-France,02,Aisne,21,Indivision
+Fonds de solidarité,VOLET1,355,49,1726344.00,32,Hauts-de-France,02,Aisne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,10452,2104,51564195.00,32,Hauts-de-France,02,Aisne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,68,11,1101034.00,32,Hauts-de-France,02,Aisne,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,5587,1039,28229849.00,32,Hauts-de-France,02,Aisne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,93,20,1381038.00,32,Hauts-de-France,02,Aisne,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,1020,310,6468830.00,32,Hauts-de-France,02,Aisne,65,Société civile
+Fonds de solidarité,VOLET1,658,112,2844731.00,32,Hauts-de-France,02,Aisne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,145341,30579,246840415.00,32,Hauts-de-France,59,Nord,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,27,7,91732.00,32,Hauts-de-France,59,Nord,21,Indivision
+Fonds de solidarité,VOLET1,54,14,161999.00,32,Hauts-de-France,59,Nord,22,Société créée de fait
+Fonds de solidarité,VOLET1,1749,209,10518883.00,32,Hauts-de-France,59,Nord,52,Société en nom collectif
+Fonds de solidarité,VOLET1,70537,13142,343712541.00,32,Hauts-de-France,59,Nord,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,337,58,9899196.00,32,Hauts-de-France,59,Nord,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,31,8,1154091.00,32,Hauts-de-France,59,Nord,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,40409,6930,215322000.00,32,Hauts-de-France,59,Nord,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1013,278,2258024.00,32,Hauts-de-France,59,Nord,65,Société civile
+Fonds de solidarité,VOLET1,4613,698,21811728.00,32,Hauts-de-France,59,Nord,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,26,7,70697.00,32,Hauts-de-France,59,Nord,99,Autre personne morale de droit privé
+Fonds de solidarité,VOLET1,43536,9208,76686270.00,32,Hauts-de-France,60,Oise,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,36,6,75164.00,32,Hauts-de-France,60,Oise,22,Société créée de fait
+Fonds de solidarité,VOLET1,776,114,5332208.00,32,Hauts-de-France,60,Oise,52,Société en nom collectif
+Fonds de solidarité,VOLET1,20242,4036,93071137.00,32,Hauts-de-France,60,Oise,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,61,10,1285426.00,32,Hauts-de-France,60,Oise,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,14445,2514,69140309.00,32,Hauts-de-France,60,Oise,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,548,195,1031992.00,32,Hauts-de-France,60,Oise,65,Société civile
+Fonds de solidarité,VOLET1,1114,185,3791386.00,32,Hauts-de-France,60,Oise,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,73245,15804,130263838.00,32,Hauts-de-France,62,Pas-de-Calais,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,15,5,29271.00,32,Hauts-de-France,62,Pas-de-Calais,21,Indivision
+Fonds de solidarité,VOLET1,25,10,57403.00,32,Hauts-de-France,62,Pas-de-Calais,22,Société créée de fait
+Fonds de solidarité,VOLET1,1500,171,9097036.00,32,Hauts-de-France,62,Pas-de-Calais,52,Société en nom collectif
+Fonds de solidarité,VOLET1,31766,6195,161462233.00,32,Hauts-de-France,62,Pas-de-Calais,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,117,24,2799368.00,32,Hauts-de-France,62,Pas-de-Calais,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,10,3,385220.00,32,Hauts-de-France,62,Pas-de-Calais,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,15006,2811,88563760.00,32,Hauts-de-France,62,Pas-de-Calais,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,818,217,1813240.00,32,Hauts-de-France,62,Pas-de-Calais,65,Société civile
+Fonds de solidarité,VOLET1,1391,236,4642138.00,32,Hauts-de-France,62,Pas-de-Calais,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,31297,6840,56270143.00,32,Hauts-de-France,80,Somme,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,12,5,28967.00,32,Hauts-de-France,80,Somme,21,Indivision
+Fonds de solidarité,VOLET1,28,6,114271.00,32,Hauts-de-France,80,Somme,22,Société créée de fait
+Fonds de solidarité,VOLET1,584,79,2776909.00,32,Hauts-de-France,80,Somme,52,Société en nom collectif
+Fonds de solidarité,VOLET1,12239,2377,66592456.00,32,Hauts-de-France,80,Somme,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,36,11,774681.00,32,Hauts-de-France,80,Somme,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,6365,1166,35510858.00,32,Hauts-de-France,80,Somme,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,352,92,821785.00,32,Hauts-de-France,80,Somme,65,Société civile
+Fonds de solidarité,VOLET1,1206,195,3997801.00,32,Hauts-de-France,80,Somme,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,88347,16394,151577341.00,11,Île-de-France,91,Essonne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,11,3,47538.00,11,Île-de-France,91,Essonne,21,Indivision
+Fonds de solidarité,VOLET1,31,5,189473.00,11,Île-de-France,91,Essonne,22,Société créée de fait
+Fonds de solidarité,VOLET1,430,68,2699633.00,11,Île-de-France,91,Essonne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,35057,7039,160734389.00,11,Île-de-France,91,Essonne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,86,16,1709208.00,11,Île-de-France,91,Essonne,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,34721,6013,152637895.00,11,Île-de-France,91,Essonne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,349,89,729471.00,11,Île-de-France,91,Essonne,65,Société civile
+Fonds de solidarité,VOLET1,1385,241,6210301.00,11,Île-de-France,91,Essonne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,164681,27310,287076083.00,11,Île-de-France,92,Hauts-de-Seine,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,39,4,153439.00,11,Île-de-France,92,Hauts-de-Seine,21,Indivision
+Fonds de solidarité,VOLET1,102,13,394284.00,11,Île-de-France,92,Hauts-de-Seine,22,Société créée de fait
+Fonds de solidarité,VOLET1,1069,158,10934773.00,11,Île-de-France,92,Hauts-de-Seine,52,Société en nom collectif
+Fonds de solidarité,VOLET1,73764,11997,387507603.00,11,Île-de-France,92,Hauts-de-Seine,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,456,66,18993452.00,11,Île-de-France,92,Hauts-de-Seine,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,75000,11550,435828276.00,11,Île-de-France,92,Hauts-de-Seine,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,587,152,1136276.00,11,Île-de-France,92,Hauts-de-Seine,65,Société civile
+Fonds de solidarité,VOLET1,2681,424,11256023.00,11,Île-de-France,92,Hauts-de-Seine,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,416917,70501,725821355.00,11,Île-de-France,75,Paris,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,197,23,770088.00,11,Île-de-France,75,Paris,21,Indivision
+Fonds de solidarité,VOLET1,456,79,2705821.00,11,Île-de-France,75,Paris,22,Société créée de fait
+Fonds de solidarité,VOLET1,20,5,211350.00,11,Île-de-France,75,Paris,23,Société en participation
+Fonds de solidarité,VOLET1,33,6,127760.00,11,Île-de-France,75,Paris,29,Autre groupement de droit privé non doté de la personnalité morale
+Fonds de solidarité,VOLET1,4155,521,70025974.00,11,Île-de-France,75,Paris,52,Société en nom collectif
+Fonds de solidarité,VOLET1,241,33,5333530.00,11,Île-de-France,75,Paris,53,Société en commandite
+Fonds de solidarité,VOLET1,292331,42568,1774744802.00,11,Île-de-France,75,Paris,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,3054,420,100002797.00,11,Île-de-France,75,Paris,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,318,49,17518019.00,11,Île-de-France,75,Paris,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,230882,33851,1826457585.00,11,Île-de-France,75,Paris,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,81,12,939156.00,11,Île-de-France,75,Paris,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,3153,608,8220251.00,11,Île-de-France,75,Paris,65,Société civile
+Fonds de solidarité,VOLET1,54,7,960689.00,11,Île-de-France,75,Paris,84,Organisme professionnel
+Fonds de solidarité,VOLET1,12266,1839,76214580.00,11,Île-de-France,75,Paris,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,43,7,2246560.00,11,Île-de-France,75,Paris,93,Fondation
+Fonds de solidarité,VOLET1,53,7,643951.00,11,Île-de-France,75,Paris,99,Autre personne morale de droit privé
+Fonds de solidarité,VOLET1,103707,19058,177730038.00,11,Île-de-France,77,Seine-et-Marne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,71,10,99087.00,11,Île-de-France,77,Seine-et-Marne,21,Indivision
+Fonds de solidarité,VOLET1,36,5,78203.00,11,Île-de-France,77,Seine-et-Marne,22,Société créée de fait
+Fonds de solidarité,VOLET1,749,114,4947277.00,11,Île-de-France,77,Seine-et-Marne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,40862,7972,194563530.00,11,Île-de-France,77,Seine-et-Marne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,54,16,1346638.00,11,Île-de-France,77,Seine-et-Marne,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,11,3,459306.00,11,Île-de-France,77,Seine-et-Marne,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,38093,6578,177195321.00,11,Île-de-France,77,Seine-et-Marne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1017,326,2961281.00,11,Île-de-France,77,Seine-et-Marne,65,Société civile
+Fonds de solidarité,VOLET1,1608,291,6778342.00,11,Île-de-France,77,Seine-et-Marne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,5,3,20835.00,11,Île-de-France,77,Seine-et-Marne,99,Autre personne morale de droit privé
+Fonds de solidarité,VOLET1,184294,27740,332820232.00,11,Île-de-France,93,Seine-Saint-Denis,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,31,3,133471.00,11,Île-de-France,93,Seine-Saint-Denis,21,Indivision
+Fonds de solidarité,VOLET1,76,14,456925.00,11,Île-de-France,93,Seine-Saint-Denis,22,Société créée de fait
+Fonds de solidarité,VOLET1,666,115,5120237.00,11,Île-de-France,93,Seine-Saint-Denis,52,Société en nom collectif
+Fonds de solidarité,VOLET1,62361,11318,300790710.00,11,Île-de-France,93,Seine-Saint-Denis,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,216,30,10569739.00,11,Île-de-France,93,Seine-Saint-Denis,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,71257,10924,288143054.00,11,Île-de-France,93,Seine-Saint-Denis,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,487,126,953193.00,11,Île-de-France,93,Seine-Saint-Denis,65,Société civile
+Fonds de solidarité,VOLET1,3283,540,14424035.00,11,Île-de-France,93,Seine-Saint-Denis,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,142817,23613,244624422.00,11,Île-de-France,94,Val-de-Marne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,66,8,267061.00,11,Île-de-France,94,Val-de-Marne,22,Société créée de fait
+Fonds de solidarité,VOLET1,564,93,5255278.00,11,Île-de-France,94,Val-de-Marne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,49643,8763,237390820.00,11,Île-de-France,94,Val-de-Marne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,117,29,6433500.00,11,Île-de-France,94,Val-de-Marne,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,25,3,509519.00,11,Île-de-France,94,Val-de-Marne,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,56122,8770,254594974.00,11,Île-de-France,94,Val-de-Marne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,583,138,1190671.00,11,Île-de-France,94,Val-de-Marne,65,Société civile
+Fonds de solidarité,VOLET1,2793,461,16586458.00,11,Île-de-France,94,Val-de-Marne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,107505,17636,190967521.00,11,Île-de-France,95,Val-d'Oise,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,16,4,104944.00,11,Île-de-France,95,Val-d'Oise,22,Société créée de fait
+Fonds de solidarité,VOLET1,867,130,6806775.00,11,Île-de-France,95,Val-d'Oise,52,Société en nom collectif
+Fonds de solidarité,VOLET1,35989,7104,162620811.00,11,Île-de-France,95,Val-d'Oise,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,107,17,1139674.00,11,Île-de-France,95,Val-d'Oise,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,42318,6855,168320053.00,11,Île-de-France,95,Val-d'Oise,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,368,104,608613.00,11,Île-de-France,95,Val-d'Oise,65,Société civile
+Fonds de solidarité,VOLET1,1331,240,5352796.00,11,Île-de-France,95,Val-d'Oise,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,98242,19246,165251000.00,11,Île-de-France,78,Yvelines,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,23,5,86897.00,11,Île-de-France,78,Yvelines,22,Société créée de fait
+Fonds de solidarité,VOLET1,665,101,5009681.00,11,Île-de-France,78,Yvelines,52,Société en nom collectif
+Fonds de solidarité,VOLET1,44047,8566,220337801.00,11,Île-de-France,78,Yvelines,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,161,27,1476228.00,11,Île-de-France,78,Yvelines,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,37782,6687,173283241.00,11,Île-de-France,78,Yvelines,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,17,3,40841.00,11,Île-de-France,78,Yvelines,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,485,133,1108751.00,11,Île-de-France,78,Yvelines,65,Société civile
+Fonds de solidarité,VOLET1,1363,248,7609861.00,11,Île-de-France,78,Yvelines,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,76643,17494,114133158.00,04,La Réunion,974,La Réunion,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,52,12,68322.00,04,La Réunion,974,La Réunion,21,Indivision
+Fonds de solidarité,VOLET1,40,9,130534.00,04,La Réunion,974,La Réunion,22,Société créée de fait
+Fonds de solidarité,VOLET1,11,3,16300.00,04,La Réunion,974,La Réunion,23,Société en participation
+Fonds de solidarité,VOLET1,457,161,685349.00,04,La Réunion,974,La Réunion,52,Société en nom collectif
+Fonds de solidarité,VOLET1,25089,6170,92639151.00,04,La Réunion,974,La Réunion,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,72,14,6534296.00,04,La Réunion,974,La Réunion,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,7441,1667,37756696.00,04,La Réunion,974,La Réunion,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,8,4,12000.00,04,La Réunion,974,La Réunion,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,11,3,16500.00,04,La Réunion,974,La Réunion,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,616,169,1060212.00,04,La Réunion,974,La Réunion,65,Société civile
+Fonds de solidarité,VOLET1,895,175,2015502.00,04,La Réunion,974,La Réunion,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,39937,7155,60395303.00,02,Martinique,972,Martinique,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,23,4,657176.00,02,Martinique,972,Martinique,22,Société créée de fait
+Fonds de solidarité,VOLET1,88,22,377389.00,02,Martinique,972,Martinique,52,Société en nom collectif
+Fonds de solidarité,VOLET1,18471,3296,74272866.00,02,Martinique,972,Martinique,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,31,7,1644182.00,02,Martinique,972,Martinique,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,12418,2144,40886248.00,02,Martinique,972,Martinique,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,639,133,1405807.00,02,Martinique,972,Martinique,65,Société civile
+Fonds de solidarité,VOLET1,717,132,1762994.00,02,Martinique,972,Martinique,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,43847,5415,101312981.00,06,Mayotte,976,Mayotte,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,4231,682,12512655.00,06,Mayotte,976,Mayotte,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,555,96,1818521.00,06,Mayotte,976,Mayotte,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,130,17,312823.00,06,Mayotte,976,Mayotte,65,Société civile
+Fonds de solidarité,VOLET1,247,39,588853.00,06,Mayotte,976,Mayotte,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,48796,10846,89993832.00,28,Normandie,14,Calvados,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,10,4,7481.00,28,Normandie,14,Calvados,21,Indivision
+Fonds de solidarité,VOLET1,39,10,185044.00,28,Normandie,14,Calvados,22,Société créée de fait
+Fonds de solidarité,VOLET1,1099,161,8557513.00,28,Normandie,14,Calvados,52,Société en nom collectif
+Fonds de solidarité,VOLET1,26825,4899,143198904.00,28,Normandie,14,Calvados,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,53,11,2838313.00,28,Normandie,14,Calvados,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,11158,1926,76310277.00,28,Normandie,14,Calvados,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,730,186,1923947.00,28,Normandie,14,Calvados,65,Société civile
+Fonds de solidarité,VOLET1,1940,319,9445286.00,28,Normandie,14,Calvados,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,33782,7192,61374110.00,28,Normandie,27,Eure,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,425,64,2271738.00,28,Normandie,27,Eure,52,Société en nom collectif
+Fonds de solidarité,VOLET1,15017,3117,67297568.00,28,Normandie,27,Eure,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,38,5,465493.00,28,Normandie,27,Eure,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,7725,1430,35730384.00,28,Normandie,27,Eure,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,393,100,1015494.00,28,Normandie,27,Eure,65,Société civile
+Fonds de solidarité,VOLET1,874,157,2666542.00,28,Normandie,27,Eure,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,30905,6699,65061688.00,28,Normandie,50,Manche,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,18,5,32923.00,28,Normandie,50,Manche,21,Indivision
+Fonds de solidarité,VOLET1,91,15,360056.00,28,Normandie,50,Manche,22,Société créée de fait
+Fonds de solidarité,VOLET1,828,104,4769053.00,28,Normandie,50,Manche,52,Société en nom collectif
+Fonds de solidarité,VOLET1,11,3,109410.00,28,Normandie,50,Manche,53,Société en commandite
+Fonds de solidarité,VOLET1,15133,2855,79521244.00,28,Normandie,50,Manche,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,18,3,517832.00,28,Normandie,50,Manche,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,3757,677,27505257.00,28,Normandie,50,Manche,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,607,154,1773831.00,28,Normandie,50,Manche,65,Société civile
+Fonds de solidarité,VOLET1,984,157,4694818.00,28,Normandie,50,Manche,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,16575,3663,33351484.00,28,Normandie,61,Orne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,12,3,54649.00,28,Normandie,61,Orne,22,Société créée de fait
+Fonds de solidarité,VOLET1,5,3,5461.00,28,Normandie,61,Orne,23,Société en participation
+Fonds de solidarité,VOLET1,297,40,1679880.00,28,Normandie,61,Orne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,6664,1370,30193423.00,28,Normandie,61,Orne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,2474,465,12248763.00,28,Normandie,61,Orne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,340,92,837281.00,28,Normandie,61,Orne,65,Société civile
+Fonds de solidarité,VOLET1,551,95,1723692.00,28,Normandie,61,Orne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,66144,14270,120508743.00,28,Normandie,76,Seine-Maritime,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,38,6,119984.00,28,Normandie,76,Seine-Maritime,21,Indivision
+Fonds de solidarité,VOLET1,58,13,143915.00,28,Normandie,76,Seine-Maritime,22,Société créée de fait
+Fonds de solidarité,VOLET1,923,131,6821857.00,28,Normandie,76,Seine-Maritime,52,Société en nom collectif
+Fonds de solidarité,VOLET1,32195,6079,170515907.00,28,Normandie,76,Seine-Maritime,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,82,19,1169726.00,28,Normandie,76,Seine-Maritime,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,15339,2689,88218286.00,28,Normandie,76,Seine-Maritime,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,519,150,1119289.00,28,Normandie,76,Seine-Maritime,65,Société civile
+Fonds de solidarité,VOLET1,2589,430,12266499.00,28,Normandie,76,Seine-Maritime,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,24703,5514,41918186.00,75,Nouvelle-Aquitaine,16,Charente,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,9,3,64193.00,75,Nouvelle-Aquitaine,16,Charente,22,Société créée de fait
+Fonds de solidarité,VOLET1,182,28,789371.00,75,Nouvelle-Aquitaine,16,Charente,52,Société en nom collectif
+Fonds de solidarité,VOLET1,4,3,5383.00,75,Nouvelle-Aquitaine,16,Charente,53,Société en commandite
+Fonds de solidarité,VOLET1,9701,1964,48023701.00,75,Nouvelle-Aquitaine,16,Charente,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,20,4,1374060.00,75,Nouvelle-Aquitaine,16,Charente,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,3163,631,20731568.00,75,Nouvelle-Aquitaine,16,Charente,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,237,73,1462915.00,75,Nouvelle-Aquitaine,16,Charente,65,Société civile
+Fonds de solidarité,VOLET1,927,142,3305706.00,75,Nouvelle-Aquitaine,16,Charente,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,59547,13732,104612513.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,58,19,233271.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,21,Indivision
+Fonds de solidarité,VOLET1,38,17,87873.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,22,Société créée de fait
+Fonds de solidarité,VOLET1,451,77,2992790.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,52,Société en nom collectif
+Fonds de solidarité,VOLET1,30121,5930,163621818.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,85,14,2770924.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,9442,1781,57806067.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1061,309,3920219.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,65,Société civile
+Fonds de solidarité,VOLET1,1765,307,7801995.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,17245,3941,32140271.00,75,Nouvelle-Aquitaine,19,Corrèze,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,259,32,1538136.00,75,Nouvelle-Aquitaine,19,Corrèze,52,Société en nom collectif
+Fonds de solidarité,VOLET1,7261,1440,35462762.00,75,Nouvelle-Aquitaine,19,Corrèze,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,48,7,610385.00,75,Nouvelle-Aquitaine,19,Corrèze,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,3989,716,20935068.00,75,Nouvelle-Aquitaine,19,Corrèze,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,609,207,1069141.00,75,Nouvelle-Aquitaine,19,Corrèze,65,Société civile
+Fonds de solidarité,VOLET1,4,3,6000.00,75,Nouvelle-Aquitaine,19,Corrèze,84,Organisme professionnel
+Fonds de solidarité,VOLET1,626,105,2397368.00,75,Nouvelle-Aquitaine,19,Corrèze,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,8442,1868,14605095.00,75,Nouvelle-Aquitaine,23,Creuse,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,85,10,425786.00,75,Nouvelle-Aquitaine,23,Creuse,52,Société en nom collectif
+Fonds de solidarité,VOLET1,2056,418,8848980.00,75,Nouvelle-Aquitaine,23,Creuse,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,19,4,338097.00,75,Nouvelle-Aquitaine,23,Creuse,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,1303,230,5609530.00,75,Nouvelle-Aquitaine,23,Creuse,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,232,97,453910.00,75,Nouvelle-Aquitaine,23,Creuse,65,Société civile
+Fonds de solidarité,VOLET1,499,77,1636476.00,75,Nouvelle-Aquitaine,23,Creuse,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,19762,4553,34575606.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,8,3,8676.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,21,Indivision
+Fonds de solidarité,VOLET1,17,4,78181.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,22,Société créée de fait
+Fonds de solidarité,VOLET1,191,28,1088017.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,52,Société en nom collectif
+Fonds de solidarité,VOLET1,8891,1848,45064140.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,21,5,2258689.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,2390,440,14534386.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,336,112,752489.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,65,Société civile
+Fonds de solidarité,VOLET1,1126,197,4076635.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,43796,9334,79596543.00,75,Nouvelle-Aquitaine,24,Dordogne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,17,3,30744.00,75,Nouvelle-Aquitaine,24,Dordogne,21,Indivision
+Fonds de solidarité,VOLET1,108,17,379594.00,75,Nouvelle-Aquitaine,24,Dordogne,22,Société créée de fait
+Fonds de solidarité,VOLET1,507,69,2547203.00,75,Nouvelle-Aquitaine,24,Dordogne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,16052,2917,76687883.00,75,Nouvelle-Aquitaine,24,Dordogne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,75,10,2878213.00,75,Nouvelle-Aquitaine,24,Dordogne,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,7385,1234,38443000.00,75,Nouvelle-Aquitaine,24,Dordogne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1105,280,4566989.00,75,Nouvelle-Aquitaine,24,Dordogne,65,Société civile
+Fonds de solidarité,VOLET1,1097,180,4325920.00,75,Nouvelle-Aquitaine,24,Dordogne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,163440,36203,278453766.00,75,Nouvelle-Aquitaine,33,Gironde,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,130,25,327755.00,75,Nouvelle-Aquitaine,33,Gironde,21,Indivision
+Fonds de solidarité,VOLET1,76,16,319988.00,75,Nouvelle-Aquitaine,33,Gironde,22,Société créée de fait
+Fonds de solidarité,VOLET1,3,3,4500.00,75,Nouvelle-Aquitaine,33,Gironde,27,Paroisse hors zone concordataire
+Fonds de solidarité,VOLET1,3,3,3700.00,75,Nouvelle-Aquitaine,33,Gironde,29,Autre groupement de droit privé non doté de la personnalité morale
+Fonds de solidarité,VOLET1,608,109,5103249.00,75,Nouvelle-Aquitaine,33,Gironde,52,Société en nom collectif
+Fonds de solidarité,VOLET1,12,3,34509.00,75,Nouvelle-Aquitaine,33,Gironde,53,Société en commandite
+Fonds de solidarité,VOLET1,73217,14361,367289354.00,75,Nouvelle-Aquitaine,33,Gironde,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,232,37,5962416.00,75,Nouvelle-Aquitaine,33,Gironde,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,20,4,1540505.00,75,Nouvelle-Aquitaine,33,Gironde,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,39561,7193,209674249.00,75,Nouvelle-Aquitaine,33,Gironde,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,8,5,16360.00,75,Nouvelle-Aquitaine,33,Gironde,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,47,15,926503.00,75,Nouvelle-Aquitaine,33,Gironde,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,9886,1993,64178151.00,75,Nouvelle-Aquitaine,33,Gironde,65,Société civile
+Fonds de solidarité,VOLET1,21,3,51345.00,75,Nouvelle-Aquitaine,33,Gironde,84,Organisme professionnel
+Fonds de solidarité,VOLET1,5062,820,20367457.00,75,Nouvelle-Aquitaine,33,Gironde,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,24213,5335,41314911.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,57,9,222969.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,22,Société créée de fait
+Fonds de solidarité,VOLET1,287,43,1343905.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,11107,2218,55930968.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,33,7,668994.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,4593,842,21853011.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,280,91,500705.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,65,Société civile
+Fonds de solidarité,VOLET1,1002,154,3971715.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,38869,8766,67081042.00,75,Nouvelle-Aquitaine,40,Landes,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,45,12,88640.00,75,Nouvelle-Aquitaine,40,Landes,21,Indivision
+Fonds de solidarité,VOLET1,17,7,46041.00,75,Nouvelle-Aquitaine,40,Landes,22,Société créée de fait
+Fonds de solidarité,VOLET1,178,22,816303.00,75,Nouvelle-Aquitaine,40,Landes,52,Société en nom collectif
+Fonds de solidarité,VOLET1,19093,3641,97293172.00,75,Nouvelle-Aquitaine,40,Landes,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,69,13,1878730.00,75,Nouvelle-Aquitaine,40,Landes,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,6653,1261,41677834.00,75,Nouvelle-Aquitaine,40,Landes,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,797,260,1854836.00,75,Nouvelle-Aquitaine,40,Landes,65,Société civile
+Fonds de solidarité,VOLET1,1257,190,4961211.00,75,Nouvelle-Aquitaine,40,Landes,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,24464,5606,41136626.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,7,4,12721.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,27,Paroisse hors zone concordataire
+Fonds de solidarité,VOLET1,102,26,704287.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,11042,2194,49094051.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,18,4,287674.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,4613,888,24020870.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,587,202,2634462.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,65,Société civile
+Fonds de solidarité,VOLET1,1126,172,4202382.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,65174,14758,109580544.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,81,18,248631.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,22,Société créée de fait
+Fonds de solidarité,VOLET1,499,82,3510062.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,52,Société en nom collectif
+Fonds de solidarité,VOLET1,36231,6909,183977808.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,120,24,4735832.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,13802,2476,78300879.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,18,3,73781.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,1754,534,4239287.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,65,Société civile
+Fonds de solidarité,VOLET1,2443,412,9111639.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,11,3,11619.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,99,Autre personne morale de droit privé
+Fonds de solidarité,VOLET1,26239,5910,46217162.00,75,Nouvelle-Aquitaine,86,Vienne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,10,3,37552.00,75,Nouvelle-Aquitaine,86,Vienne,22,Société créée de fait
+Fonds de solidarité,VOLET1,306,39,1909445.00,75,Nouvelle-Aquitaine,86,Vienne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,12077,2501,58963345.00,75,Nouvelle-Aquitaine,86,Vienne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,25,3,303363.00,75,Nouvelle-Aquitaine,86,Vienne,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,15,3,763623.00,75,Nouvelle-Aquitaine,86,Vienne,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,3579,674,22901753.00,75,Nouvelle-Aquitaine,86,Vienne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,348,109,724419.00,75,Nouvelle-Aquitaine,86,Vienne,65,Société civile
+Fonds de solidarité,VOLET1,1450,236,5191274.00,75,Nouvelle-Aquitaine,86,Vienne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,15191,3479,23563700.00,76,Occitanie,09,Ariège,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,68,9,370311.00,76,Occitanie,09,Ariège,52,Société en nom collectif
+Fonds de solidarité,VOLET1,4983,945,23923003.00,76,Occitanie,09,Ariège,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,10,3,760813.00,76,Occitanie,09,Ariège,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,3214,569,14307373.00,76,Occitanie,09,Ariège,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,261,92,437810.00,76,Occitanie,09,Ariège,65,Société civile
+Fonds de solidarité,VOLET1,570,93,2465250.00,76,Occitanie,09,Ariège,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,37694,7915,65568243.00,76,Occitanie,11,Aude,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,28,5,37528.00,76,Occitanie,11,Aude,21,Indivision
+Fonds de solidarité,VOLET1,34,9,87036.00,76,Occitanie,11,Aude,22,Société créée de fait
+Fonds de solidarité,VOLET1,211,25,1756642.00,76,Occitanie,11,Aude,52,Société en nom collectif
+Fonds de solidarité,VOLET1,15631,2826,76886158.00,76,Occitanie,11,Aude,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,30,8,553785.00,76,Occitanie,11,Aude,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,10026,1704,46153279.00,76,Occitanie,11,Aude,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,18,3,1712533.00,76,Occitanie,11,Aude,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,1005,235,4113427.00,76,Occitanie,11,Aude,65,Société civile
+Fonds de solidarité,VOLET1,1179,175,4792653.00,76,Occitanie,11,Aude,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,26809,5726,51206159.00,76,Occitanie,12,Aveyron,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,81,14,332644.00,76,Occitanie,12,Aveyron,22,Société créée de fait
+Fonds de solidarité,VOLET1,317,46,1536195.00,76,Occitanie,12,Aveyron,52,Société en nom collectif
+Fonds de solidarité,VOLET1,11201,2147,53164850.00,76,Occitanie,12,Aveyron,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,60,9,1388208.00,76,Occitanie,12,Aveyron,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,4041,673,23074476.00,76,Occitanie,12,Aveyron,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,12,3,50917.00,76,Occitanie,12,Aveyron,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,1108,408,1785596.00,76,Occitanie,12,Aveyron,65,Société civile
+Fonds de solidarité,VOLET1,1059,160,5031905.00,76,Occitanie,12,Aveyron,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,75499,15674,122175417.00,76,Occitanie,30,Gard,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,23,3,62667.00,76,Occitanie,30,Gard,21,Indivision
+Fonds de solidarité,VOLET1,83,22,170157.00,76,Occitanie,30,Gard,22,Société créée de fait
+Fonds de solidarité,VOLET1,311,42,1790781.00,76,Occitanie,30,Gard,52,Société en nom collectif
+Fonds de solidarité,VOLET1,36304,6890,160277594.00,76,Occitanie,30,Gard,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,81,12,2116874.00,76,Occitanie,30,Gard,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,18145,3259,83163396.00,76,Occitanie,30,Gard,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,7,5,261665.00,76,Occitanie,30,Gard,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,1739,390,6814684.00,76,Occitanie,30,Gard,65,Société civile
+Fonds de solidarité,VOLET1,2918,421,8831863.00,76,Occitanie,30,Gard,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,17104,3864,30427037.00,76,Occitanie,32,Gers,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,46,11,162478.00,76,Occitanie,32,Gers,52,Société en nom collectif
+Fonds de solidarité,VOLET1,6868,1411,29401010.00,76,Occitanie,32,Gers,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,14,4,230900.00,76,Occitanie,32,Gers,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,3425,624,15486942.00,76,Occitanie,32,Gers,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1381,365,7307618.00,76,Occitanie,32,Gers,65,Société civile
+Fonds de solidarité,VOLET1,861,128,3136505.00,76,Occitanie,32,Gers,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,131681,28582,202883581.00,76,Occitanie,31,Haute-Garonne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,12,5,13210.00,76,Occitanie,31,Haute-Garonne,21,Indivision
+Fonds de solidarité,VOLET1,39,14,124696.00,76,Occitanie,31,Haute-Garonne,22,Société créée de fait
+Fonds de solidarité,VOLET1,177,31,1526916.00,76,Occitanie,31,Haute-Garonne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,22,3,175241.00,76,Occitanie,31,Haute-Garonne,53,Société en commandite
+Fonds de solidarité,VOLET1,59083,11224,289189364.00,76,Occitanie,31,Haute-Garonne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,167,34,6338299.00,76,Occitanie,31,Haute-Garonne,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,20,5,698584.00,76,Occitanie,31,Haute-Garonne,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,37100,6794,180385784.00,76,Occitanie,31,Haute-Garonne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,17,3,37242.00,76,Occitanie,31,Haute-Garonne,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,918,272,1682947.00,76,Occitanie,31,Haute-Garonne,65,Société civile
+Fonds de solidarité,VOLET1,12,3,34637.00,76,Occitanie,31,Haute-Garonne,84,Organisme professionnel
+Fonds de solidarité,VOLET1,5481,837,20754878.00,76,Occitanie,31,Haute-Garonne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,28294,5394,57327817.00,76,Occitanie,65,Hautes-Pyrénées,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,32,6,164106.00,76,Occitanie,65,Hautes-Pyrénées,21,Indivision
+Fonds de solidarité,VOLET1,86,13,327976.00,76,Occitanie,65,Hautes-Pyrénées,22,Société créée de fait
+Fonds de solidarité,VOLET1,242,30,2377697.00,76,Occitanie,65,Hautes-Pyrénées,52,Société en nom collectif
+Fonds de solidarité,VOLET1,13488,2047,77817333.00,76,Occitanie,65,Hautes-Pyrénées,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,85,16,2602763.00,76,Occitanie,65,Hautes-Pyrénées,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,24,3,1456854.00,76,Occitanie,65,Hautes-Pyrénées,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,4468,693,28883109.00,76,Occitanie,65,Hautes-Pyrénées,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,48,4,269273.00,76,Occitanie,65,Hautes-Pyrénées,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,312,81,660236.00,76,Occitanie,65,Hautes-Pyrénées,65,Société civile
+Fonds de solidarité,VOLET1,42,12,212422.00,76,Occitanie,65,Hautes-Pyrénées,84,Organisme professionnel
+Fonds de solidarité,VOLET1,965,146,5259273.00,76,Occitanie,65,Hautes-Pyrénées,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,133970,28168,211464673.00,76,Occitanie,34,Hérault,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,119,28,276120.00,76,Occitanie,34,Hérault,21,Indivision
+Fonds de solidarité,VOLET1,124,22,529161.00,76,Occitanie,34,Hérault,22,Société créée de fait
+Fonds de solidarité,VOLET1,13,5,218000.00,76,Occitanie,34,Hérault,23,Société en participation
+Fonds de solidarité,VOLET1,387,73,4054773.00,76,Occitanie,34,Hérault,52,Société en nom collectif
+Fonds de solidarité,VOLET1,11,3,827500.00,76,Occitanie,34,Hérault,53,Société en commandite
+Fonds de solidarité,VOLET1,63457,11594,307308190.00,76,Occitanie,34,Hérault,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,156,25,6927527.00,76,Occitanie,34,Hérault,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,20,5,1597754.00,76,Occitanie,34,Hérault,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,43948,7448,210456178.00,76,Occitanie,34,Hérault,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,2599,589,10648857.00,76,Occitanie,34,Hérault,65,Société civile
+Fonds de solidarité,VOLET1,5546,770,19669184.00,76,Occitanie,34,Hérault,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,17707,3902,32331136.00,76,Occitanie,46,Lot,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,10,3,59731.00,76,Occitanie,46,Lot,22,Société créée de fait
+Fonds de solidarité,VOLET1,151,20,937704.00,76,Occitanie,46,Lot,52,Société en nom collectif
+Fonds de solidarité,VOLET1,7154,1324,33074184.00,76,Occitanie,46,Lot,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,3267,580,19200843.00,76,Occitanie,46,Lot,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,618,204,2080890.00,76,Occitanie,46,Lot,65,Société civile
+Fonds de solidarité,VOLET1,756,115,3603359.00,76,Occitanie,46,Lot,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,8908,1915,18517427.00,76,Occitanie,48,Lozère,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,161,19,895907.00,76,Occitanie,48,Lozère,52,Société en nom collectif
+Fonds de solidarité,VOLET1,3315,629,17347711.00,76,Occitanie,48,Lozère,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,27,5,393644.00,76,Occitanie,48,Lozère,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,1171,205,6044354.00,76,Occitanie,48,Lozère,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,281,99,414539.00,76,Occitanie,48,Lozère,65,Société civile
+Fonds de solidarité,VOLET1,375,72,1290426.00,76,Occitanie,48,Lozère,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,50344,10678,86499231.00,76,Occitanie,66,Pyrénées-Orientales,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,90,20,167023.00,76,Occitanie,66,Pyrénées-Orientales,21,Indivision
+Fonds de solidarité,VOLET1,93,17,386870.00,76,Occitanie,66,Pyrénées-Orientales,22,Société créée de fait
+Fonds de solidarité,VOLET1,179,31,1067482.00,76,Occitanie,66,Pyrénées-Orientales,52,Société en nom collectif
+Fonds de solidarité,VOLET1,22554,4098,108380251.00,76,Occitanie,66,Pyrénées-Orientales,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,72,15,1051800.00,76,Occitanie,66,Pyrénées-Orientales,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,14929,2491,82140947.00,76,Occitanie,66,Pyrénées-Orientales,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,28,3,112140.00,76,Occitanie,66,Pyrénées-Orientales,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,1143,271,3957240.00,76,Occitanie,66,Pyrénées-Orientales,65,Société civile
+Fonds de solidarité,VOLET1,18,7,82365.00,76,Occitanie,66,Pyrénées-Orientales,84,Organisme professionnel
+Fonds de solidarité,VOLET1,1730,276,5802732.00,76,Occitanie,66,Pyrénées-Orientales,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,31494,7246,48881217.00,76,Occitanie,81,Tarn,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,48,9,166527.00,76,Occitanie,81,Tarn,22,Société créée de fait
+Fonds de solidarité,VOLET1,147,22,890984.00,76,Occitanie,81,Tarn,52,Société en nom collectif
+Fonds de solidarité,VOLET1,13242,2826,58226189.00,76,Occitanie,81,Tarn,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,29,3,518274.00,76,Occitanie,81,Tarn,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,6725,1289,26218953.00,76,Occitanie,81,Tarn,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,512,134,1815081.00,76,Occitanie,81,Tarn,65,Société civile
+Fonds de solidarité,VOLET1,1246,220,4724890.00,76,Occitanie,81,Tarn,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,20803,4771,33155091.00,76,Occitanie,82,Tarn-et-Garonne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,28,7,44082.00,76,Occitanie,82,Tarn-et-Garonne,22,Société créée de fait
+Fonds de solidarité,VOLET1,119,13,679302.00,76,Occitanie,82,Tarn-et-Garonne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,8376,1832,36524919.00,76,Occitanie,82,Tarn-et-Garonne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,24,3,653202.00,76,Occitanie,82,Tarn-et-Garonne,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,4206,809,18259268.00,76,Occitanie,82,Tarn-et-Garonne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,258,95,694213.00,76,Occitanie,82,Tarn-et-Garonne,65,Société civile
+Fonds de solidarité,VOLET1,760,128,2666843.00,76,Occitanie,82,Tarn-et-Garonne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,95924,22285,162899677.00,52,Pays de la Loire,44,Loire-Atlantique,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,37,14,40127.00,52,Pays de la Loire,44,Loire-Atlantique,21,Indivision
+Fonds de solidarité,VOLET1,62,10,220555.00,52,Pays de la Loire,44,Loire-Atlantique,22,Société créée de fait
+Fonds de solidarité,VOLET1,934,141,5946410.00,52,Pays de la Loire,44,Loire-Atlantique,52,Société en nom collectif
+Fonds de solidarité,VOLET1,58396,11375,290451789.00,52,Pays de la Loire,44,Loire-Atlantique,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,116,19,4544484.00,52,Pays de la Loire,44,Loire-Atlantique,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,18595,3371,120357583.00,52,Pays de la Loire,44,Loire-Atlantique,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1412,390,5164492.00,52,Pays de la Loire,44,Loire-Atlantique,65,Société civile
+Fonds de solidarité,VOLET1,3813,592,19654681.00,52,Pays de la Loire,44,Loire-Atlantique,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,48079,10728,87008596.00,52,Pays de la Loire,49,Maine-et-Loire,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,74,9,305189.00,52,Pays de la Loire,49,Maine-et-Loire,22,Société créée de fait
+Fonds de solidarité,VOLET1,644,83,4658921.00,52,Pays de la Loire,49,Maine-et-Loire,52,Société en nom collectif
+Fonds de solidarité,VOLET1,27078,5532,133388194.00,52,Pays de la Loire,49,Maine-et-Loire,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,61,12,2734836.00,52,Pays de la Loire,49,Maine-et-Loire,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,6,3,79234.00,52,Pays de la Loire,49,Maine-et-Loire,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,7435,1362,45731389.00,52,Pays de la Loire,49,Maine-et-Loire,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,23,3,283730.00,52,Pays de la Loire,49,Maine-et-Loire,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,1685,478,7512154.00,52,Pays de la Loire,49,Maine-et-Loire,65,Société civile
+Fonds de solidarité,VOLET1,2493,408,9606206.00,52,Pays de la Loire,49,Maine-et-Loire,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,15598,3456,30403885.00,52,Pays de la Loire,53,Mayenne,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,363,43,1716671.00,52,Pays de la Loire,53,Mayenne,52,Société en nom collectif
+Fonds de solidarité,VOLET1,7667,1700,35445349.00,52,Pays de la Loire,53,Mayenne,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,1968,408,10878102.00,52,Pays de la Loire,53,Mayenne,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,362,95,1094321.00,52,Pays de la Loire,53,Mayenne,65,Société civile
+Fonds de solidarité,VOLET1,768,139,3795915.00,52,Pays de la Loire,53,Mayenne,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,28829,6343,53440174.00,52,Pays de la Loire,72,Sarthe,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,6,3,7060.00,52,Pays de la Loire,72,Sarthe,23,Société en participation
+Fonds de solidarité,VOLET1,510,70,2859228.00,52,Pays de la Loire,72,Sarthe,52,Société en nom collectif
+Fonds de solidarité,VOLET1,14400,2888,74330408.00,52,Pays de la Loire,72,Sarthe,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,64,10,1764674.00,52,Pays de la Loire,72,Sarthe,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,4503,802,28833109.00,52,Pays de la Loire,72,Sarthe,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,305,99,811404.00,52,Pays de la Loire,72,Sarthe,65,Société civile
+Fonds de solidarité,VOLET1,1128,171,4646903.00,52,Pays de la Loire,72,Sarthe,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,41836,9646,75029416.00,52,Pays de la Loire,85,Vendée,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,68,18,192143.00,52,Pays de la Loire,85,Vendée,21,Indivision
+Fonds de solidarité,VOLET1,36,8,122385.00,52,Pays de la Loire,85,Vendée,22,Société créée de fait
+Fonds de solidarité,VOLET1,648,88,4071676.00,52,Pays de la Loire,85,Vendée,52,Société en nom collectif
+Fonds de solidarité,VOLET1,27963,5685,148348599.00,52,Pays de la Loire,85,Vendée,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,83,14,1045139.00,52,Pays de la Loire,85,Vendée,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,7186,1307,55140851.00,52,Pays de la Loire,85,Vendée,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,5,3,22062.00,52,Pays de la Loire,85,Vendée,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,675,201,1794213.00,52,Pays de la Loire,85,Vendée,65,Société civile
+Fonds de solidarité,VOLET1,1670,275,6630911.00,52,Pays de la Loire,85,Vendée,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,20966,4222,40512988.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,20,4,36132.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,21,Indivision
+Fonds de solidarité,VOLET1,57,9,225295.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,22,Société créée de fait
+Fonds de solidarité,VOLET1,150,21,806060.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,52,Société en nom collectif
+Fonds de solidarité,VOLET1,9410,1582,45827440.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,11,3,272618.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,4905,782,25010466.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,9,3,19517.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,293,92,510274.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,65,Société civile
+Fonds de solidarité,VOLET1,13,4,109558.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,84,Organisme professionnel
+Fonds de solidarité,VOLET1,776,134,3390214.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,167282,30742,280782685.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,113,23,224782.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,21,Indivision
+Fonds de solidarité,VOLET1,178,38,567842.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,22,Société créée de fait
+Fonds de solidarité,VOLET1,23,5,108313.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,23,Société en participation
+Fonds de solidarité,VOLET1,19,3,32036.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,29,Autre groupement de droit privé non doté de la personnalité morale
+Fonds de solidarité,VOLET1,1040,146,10100692.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,52,Société en nom collectif
+Fonds de solidarité,VOLET1,37,5,691258.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,53,Société en commandite
+Fonds de solidarité,VOLET1,81815,13203,443594102.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,339,54,12387964.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,38,6,2209427.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,59763,8975,334975610.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,15,5,22020.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,62,Groupement d'intérêt économique
+Fonds de solidarité,VOLET1,1224,300,2362771.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,65,Société civile
+Fonds de solidarité,VOLET1,3559,486,13897813.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,198894,40345,322749607.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,157,25,480457.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,21,Indivision
+Fonds de solidarité,VOLET1,179,33,627816.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,22,Société créée de fait
+Fonds de solidarité,VOLET1,34,5,256954.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,23,Société en participation
+Fonds de solidarité,VOLET1,6,3,9000.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,29,Autre groupement de droit privé non doté de la personnalité morale
+Fonds de solidarité,VOLET1,1537,208,10848362.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,52,Société en nom collectif
+Fonds de solidarité,VOLET1,30,4,1270797.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,53,Société en commandite
+Fonds de solidarité,VOLET1,96861,17575,463328082.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,171,39,6944943.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,45,8,5384580.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,56,Société anonyme à directoire
+Fonds de solidarité,VOLET1,79107,13383,392222420.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,1681,429,4373905.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,65,Société civile
+Fonds de solidarité,VOLET1,8094,1180,30424296.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,32197,5510,70565470.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,13,5,15300.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,21,Indivision
+Fonds de solidarité,VOLET1,97,12,387533.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,22,Société créée de fait
+Fonds de solidarité,VOLET1,225,28,1576209.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,52,Société en nom collectif
+Fonds de solidarité,VOLET1,12204,1959,76288270.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,43,8,1972886.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,4545,653,28681776.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,290,77,712897.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,65,Société civile
+Fonds de solidarité,VOLET1,64,12,446996.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,84,Organisme professionnel
+Fonds de solidarité,VOLET1,13,3,55562.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,91,Syndicat de propriétaires
+Fonds de solidarité,VOLET1,777,135,4350747.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,127923,26954,215207748.00,93,Provence-Alpes-Côte d'Azur,83,Var,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,94,23,214633.00,93,Provence-Alpes-Côte d'Azur,83,Var,21,Indivision
+Fonds de solidarité,VOLET1,141,27,674247.00,93,Provence-Alpes-Côte d'Azur,83,Var,22,Société créée de fait
+Fonds de solidarité,VOLET1,910,142,7973552.00,93,Provence-Alpes-Côte d'Azur,83,Var,52,Société en nom collectif
+Fonds de solidarité,VOLET1,53209,10126,267701946.00,93,Provence-Alpes-Côte d'Azur,83,Var,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,150,28,5219708.00,93,Provence-Alpes-Côte d'Azur,83,Var,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,38556,6911,195507462.00,93,Provence-Alpes-Côte d'Azur,83,Var,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,97,24,5894496.00,93,Provence-Alpes-Côte d'Azur,83,Var,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,1426,367,6119255.00,93,Provence-Alpes-Côte d'Azur,83,Var,65,Société civile
+Fonds de solidarité,VOLET1,3016,445,10956371.00,93,Provence-Alpes-Côte d'Azur,83,Var,92,Association loi 1901 ou assimilé
+Fonds de solidarité,VOLET1,65286,13599,110951307.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,10,Entrepreneur individuel
+Fonds de solidarité,VOLET1,35,11,146761.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,21,Indivision
+Fonds de solidarité,VOLET1,26,9,78043.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,22,Société créée de fait
+Fonds de solidarité,VOLET1,402,56,2539795.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,52,Société en nom collectif
+Fonds de solidarité,VOLET1,29833,5384,141963607.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,54,Société à responsabilité limitée (SARL)
+Fonds de solidarité,VOLET1,83,16,2499163.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,55,Société anonyme à conseil d'administration
+Fonds de solidarité,VOLET1,19076,3311,93888037.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,57,Société par actions simplifiée
+Fonds de solidarité,VOLET1,11,3,309418.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,63,Société coopérative agricole
+Fonds de solidarité,VOLET1,2303,554,13624957.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,65,Société civile
+Fonds de solidarité,VOLET1,2616,347,8610142.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,92,Association loi 1901 ou assimilé

@@ -1,0 +1,859 @@
+dispositif,volet,nombre_aides,nombre_entreprises,montant_total,reg,libelle_region,dep,libelle_departement,classe_effectif,libelle_classe_effectif
+Fonds de solidarité,VOLET1,3256,723,9340838.00,84,Auvergne-Rhône-Alpes,01,Ain,00,0 salarié
+Fonds de solidarité,VOLET1,15444,3053,60751540.00,84,Auvergne-Rhône-Alpes,01,Ain,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,6294,1168,34260052.00,84,Auvergne-Rhône-Alpes,01,Ain,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1996,348,14517710.00,84,Auvergne-Rhône-Alpes,01,Ain,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,991,160,14042855.00,84,Auvergne-Rhône-Alpes,01,Ain,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,291,53,12167203.00,84,Auvergne-Rhône-Alpes,01,Ain,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,23,6,1563479.00,84,Auvergne-Rhône-Alpes,01,Ain,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,2991,735,7390394.00,84,Auvergne-Rhône-Alpes,01,Ain,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,3116,594,9552840.00,84,Auvergne-Rhône-Alpes,03,Allier,00,0 salarié
+Fonds de solidarité,VOLET1,9408,1870,34875719.00,84,Auvergne-Rhône-Alpes,03,Allier,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2603,576,13159311.00,84,Auvergne-Rhône-Alpes,03,Allier,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,908,174,6322175.00,84,Auvergne-Rhône-Alpes,03,Allier,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,424,77,5259039.00,84,Auvergne-Rhône-Alpes,03,Allier,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,164,32,5885489.00,84,Auvergne-Rhône-Alpes,03,Allier,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,19,5,1703125.00,84,Auvergne-Rhône-Alpes,03,Allier,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,5063,1240,8594672.00,84,Auvergne-Rhône-Alpes,03,Allier,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,7542,1195,29374701.00,84,Auvergne-Rhône-Alpes,07,Ardèche,00,0 salarié
+Fonds de solidarité,VOLET1,11422,2139,49667052.00,84,Auvergne-Rhône-Alpes,07,Ardèche,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,3216,672,17327723.00,84,Auvergne-Rhône-Alpes,07,Ardèche,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,849,162,6527054.00,84,Auvergne-Rhône-Alpes,07,Ardèche,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,300,56,7557130.00,84,Auvergne-Rhône-Alpes,07,Ardèche,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,115,22,5037613.00,84,Auvergne-Rhône-Alpes,07,Ardèche,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,16,3,847438.00,84,Auvergne-Rhône-Alpes,07,Ardèche,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,3973,849,7553627.00,84,Auvergne-Rhône-Alpes,07,Ardèche,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,1938,353,6473473.00,84,Auvergne-Rhône-Alpes,15,Cantal,00,0 salarié
+Fonds de solidarité,VOLET1,5382,1034,21952739.00,84,Auvergne-Rhône-Alpes,15,Cantal,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,1590,307,8539487.00,84,Auvergne-Rhône-Alpes,15,Cantal,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,438,101,3433880.00,84,Auvergne-Rhône-Alpes,15,Cantal,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,233,38,2923763.00,84,Auvergne-Rhône-Alpes,15,Cantal,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,66,14,2299948.00,84,Auvergne-Rhône-Alpes,15,Cantal,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,5544,1232,9382101.00,84,Auvergne-Rhône-Alpes,15,Cantal,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,8287,1542,26434492.00,84,Auvergne-Rhône-Alpes,26,Drôme,00,0 salarié
+Fonds de solidarité,VOLET1,17023,3374,68182836.00,84,Auvergne-Rhône-Alpes,26,Drôme,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,5950,1171,31722634.00,84,Auvergne-Rhône-Alpes,26,Drôme,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1835,366,15316932.00,84,Auvergne-Rhône-Alpes,26,Drôme,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,934,160,11328592.00,84,Auvergne-Rhône-Alpes,26,Drôme,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,362,75,13242885.00,84,Auvergne-Rhône-Alpes,26,Drôme,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,28,7,2118076.00,84,Auvergne-Rhône-Alpes,26,Drôme,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,10,3,1299567.00,84,Auvergne-Rhône-Alpes,26,Drôme,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,5719,1190,10021310.00,84,Auvergne-Rhône-Alpes,26,Drôme,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,3308,582,10496049.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,00,0 salarié
+Fonds de solidarité,VOLET1,7100,1408,27686340.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2244,449,11534024.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,654,130,5282272.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,171,40,1803059.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,81,17,3171554.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,3015,698,5811682.00,84,Auvergne-Rhône-Alpes,43,Haute-Loire,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,12185,2188,45906770.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,00,0 salarié
+Fonds de solidarité,VOLET1,27939,5065,131501278.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,14735,2381,99443057.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,6713,1006,68821731.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,4081,594,75378549.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1465,225,59285812.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,226,35,20896541.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,44,9,6531071.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,20,3,4000000.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,17,3,3201500.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,15113,2641,37474649.00,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,14603,2910,45048456.00,84,Auvergne-Rhône-Alpes,38,Isère,00,0 salarié
+Fonds de solidarité,VOLET1,35917,7000,147208847.00,84,Auvergne-Rhône-Alpes,38,Isère,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,14670,2711,88502024.00,84,Auvergne-Rhône-Alpes,38,Isère,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,5304,906,46245007.00,84,Auvergne-Rhône-Alpes,38,Isère,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,2387,385,37148132.00,84,Auvergne-Rhône-Alpes,38,Isère,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,843,139,34774519.00,84,Auvergne-Rhône-Alpes,38,Isère,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,161,28,10419536.00,84,Auvergne-Rhône-Alpes,38,Isère,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,29,7,3741724.00,84,Auvergne-Rhône-Alpes,38,Isère,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,24,3,1339195.00,84,Auvergne-Rhône-Alpes,38,Isère,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,13781,2746,31698057.00,84,Auvergne-Rhône-Alpes,38,Isère,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,7784,1550,22872563.00,84,Auvergne-Rhône-Alpes,42,Loire,00,0 salarié
+Fonds de solidarité,VOLET1,20288,4051,77666501.00,84,Auvergne-Rhône-Alpes,42,Loire,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,7228,1511,37626571.00,84,Auvergne-Rhône-Alpes,42,Loire,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2369,474,18090757.00,84,Auvergne-Rhône-Alpes,42,Loire,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1325,225,15821309.00,84,Auvergne-Rhône-Alpes,42,Loire,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,276,58,9750596.00,84,Auvergne-Rhône-Alpes,42,Loire,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,64,12,6207455.00,84,Auvergne-Rhône-Alpes,42,Loire,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,18,4,1186384.00,84,Auvergne-Rhône-Alpes,42,Loire,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,7534,1613,14050951.00,84,Auvergne-Rhône-Alpes,42,Loire,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,6865,1285,20804349.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,00,0 salarié
+Fonds de solidarité,VOLET1,18573,3517,73354784.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,7392,1395,43320413.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2525,459,19533869.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1342,222,20549992.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,372,71,11862177.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,37,10,3650280.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,7,3,1197882.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,6961,1450,13893712.00,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,22991,4522,68031291.00,84,Auvergne-Rhône-Alpes,69,Rhône,00,0 salarié
+Fonds de solidarité,VOLET1,58712,11363,233998268.00,84,Auvergne-Rhône-Alpes,69,Rhône,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,24658,4502,146771367.00,84,Auvergne-Rhône-Alpes,69,Rhône,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,9535,1567,84485536.00,84,Auvergne-Rhône-Alpes,69,Rhône,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,4859,746,86572245.00,84,Auvergne-Rhône-Alpes,69,Rhône,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1632,292,67106149.00,84,Auvergne-Rhône-Alpes,69,Rhône,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,214,37,19321988.00,84,Auvergne-Rhône-Alpes,69,Rhône,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,51,14,5274748.00,84,Auvergne-Rhône-Alpes,69,Rhône,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,13,4,1298501.00,84,Auvergne-Rhône-Alpes,69,Rhône,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,35,7,3271190.00,84,Auvergne-Rhône-Alpes,69,Rhône,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,7,3,10500.00,84,Auvergne-Rhône-Alpes,69,Rhône,42,1 000 à 1 999 salariés
+Fonds de solidarité,VOLET1,17004,3526,35587056.00,84,Auvergne-Rhône-Alpes,69,Rhône,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,8952,1562,33017052.00,84,Auvergne-Rhône-Alpes,73,Savoie,00,0 salarié
+Fonds de solidarité,VOLET1,22128,3610,109643677.00,84,Auvergne-Rhône-Alpes,73,Savoie,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,12886,1859,95292544.00,84,Auvergne-Rhône-Alpes,73,Savoie,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,6374,938,73266059.00,84,Auvergne-Rhône-Alpes,73,Savoie,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,3750,560,82366714.00,84,Auvergne-Rhône-Alpes,73,Savoie,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1351,207,66534816.00,84,Auvergne-Rhône-Alpes,73,Savoie,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,263,50,24663644.00,84,Auvergne-Rhône-Alpes,73,Savoie,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,121,21,16279568.00,84,Auvergne-Rhône-Alpes,73,Savoie,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,19,3,2961582.00,84,Auvergne-Rhône-Alpes,73,Savoie,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,24121,3216,71799386.00,84,Auvergne-Rhône-Alpes,73,Savoie,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,4933,982,16274344.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,00,0 salarié
+Fonds de solidarité,VOLET1,13268,2598,57756418.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,5712,1075,35068734.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2302,364,21380522.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1227,189,21105732.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,430,70,14758573.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,53,10,4265190.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,4454,995,9428775.00,27,Bourgogne-Franche-Comté,21,Côte-d'Or,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,4477,836,14334676.00,27,Bourgogne-Franche-Comté,25,Doubs,00,0 salarié
+Fonds de solidarité,VOLET1,11658,2359,46018311.00,27,Bourgogne-Franche-Comté,25,Doubs,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,5001,893,28352668.00,27,Bourgogne-Franche-Comté,25,Doubs,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1867,331,14641762.00,27,Bourgogne-Franche-Comté,25,Doubs,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,849,146,10555633.00,27,Bourgogne-Franche-Comté,25,Doubs,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,279,49,10205718.00,27,Bourgogne-Franche-Comté,25,Doubs,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,36,5,858502.00,27,Bourgogne-Franche-Comté,25,Doubs,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,3361,746,6564725.00,27,Bourgogne-Franche-Comté,25,Doubs,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,1573,337,4495813.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,00,0 salarié
+Fonds de solidarité,VOLET1,4373,937,16823476.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,1409,312,6902315.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,523,119,3494180.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,181,39,2206990.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,53,12,1870572.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,1875,420,3286921.00,27,Bourgogne-Franche-Comté,70,Haute-Saône,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2825,580,8802622.00,27,Bourgogne-Franche-Comté,39,Jura,00,0 salarié
+Fonds de solidarité,VOLET1,7205,1402,29593346.00,27,Bourgogne-Franche-Comté,39,Jura,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2531,509,15246493.00,27,Bourgogne-Franche-Comté,39,Jura,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,862,171,6878920.00,27,Bourgogne-Franche-Comté,39,Jura,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,430,74,6346421.00,27,Bourgogne-Franche-Comté,39,Jura,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,167,29,4761624.00,27,Bourgogne-Franche-Comté,39,Jura,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,19,5,1629565.00,27,Bourgogne-Franche-Comté,39,Jura,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,2384,491,4878710.00,27,Bourgogne-Franche-Comté,39,Jura,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,1945,353,6667334.00,27,Bourgogne-Franche-Comté,58,Nièvre,00,0 salarié
+Fonds de solidarité,VOLET1,5036,1014,20493169.00,27,Bourgogne-Franche-Comté,58,Nièvre,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,1695,356,8886762.00,27,Bourgogne-Franche-Comté,58,Nièvre,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,358,87,3131313.00,27,Bourgogne-Franche-Comté,58,Nièvre,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,274,47,3214872.00,27,Bourgogne-Franche-Comté,58,Nièvre,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,76,14,2553883.00,27,Bourgogne-Franche-Comté,58,Nièvre,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,2077,437,4139581.00,27,Bourgogne-Franche-Comté,58,Nièvre,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,5337,993,17771178.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,00,0 salarié
+Fonds de solidarité,VOLET1,15374,2995,62430418.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,5330,1039,29972089.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1481,298,11197152.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,869,145,13849030.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,314,62,9964762.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,15,4,1964399.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,5887,1290,12306947.00,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,991,206,2822520.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,00,0 salarié
+Fonds de solidarité,VOLET1,3079,579,12534133.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,1262,245,6760334.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,444,72,3512125.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,193,30,3613973.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,97,17,2916695.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,772,173,1580119.00,27,Bourgogne-Franche-Comté,90,Territoire de Belfort,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2667,564,9232566.00,27,Bourgogne-Franche-Comté,89,Yonne,00,0 salarié
+Fonds de solidarité,VOLET1,8283,1710,33571873.00,27,Bourgogne-Franche-Comté,89,Yonne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2825,570,17001504.00,27,Bourgogne-Franche-Comté,89,Yonne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,945,197,6694744.00,27,Bourgogne-Franche-Comté,89,Yonne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,344,60,5199631.00,27,Bourgogne-Franche-Comté,89,Yonne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,177,29,6327078.00,27,Bourgogne-Franche-Comté,89,Yonne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,24,3,1454125.00,27,Bourgogne-Franche-Comté,89,Yonne,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,2731,577,5656936.00,27,Bourgogne-Franche-Comté,89,Yonne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,7156,1269,27161186.00,53,Bretagne,22,Côtes-d'Armor,00,0 salarié
+Fonds de solidarité,VOLET1,16255,3134,69913857.00,53,Bretagne,22,Côtes-d'Armor,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,5471,1048,32453274.00,53,Bretagne,22,Côtes-d'Armor,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1608,350,13231038.00,53,Bretagne,22,Côtes-d'Armor,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,676,115,11878825.00,53,Bretagne,22,Côtes-d'Armor,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,243,46,9734613.00,53,Bretagne,22,Côtes-d'Armor,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,20,5,2259084.00,53,Bretagne,22,Côtes-d'Armor,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,5269,1198,10306745.00,53,Bretagne,22,Côtes-d'Armor,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,9344,1756,34396842.00,53,Bretagne,29,Finistère,00,0 salarié
+Fonds de solidarité,VOLET1,22577,4282,99311127.00,53,Bretagne,29,Finistère,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,9350,1774,56659448.00,53,Bretagne,29,Finistère,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,3086,557,27012428.00,53,Bretagne,29,Finistère,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1507,258,20426363.00,53,Bretagne,29,Finistère,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,511,91,20497108.00,53,Bretagne,29,Finistère,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,21,7,1956946.00,53,Bretagne,29,Finistère,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,7,4,1079023.00,53,Bretagne,29,Finistère,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,6714,1532,13165753.00,53,Bretagne,29,Finistère,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,8982,1669,30789860.00,53,Bretagne,35,Ille-et-Vilaine,00,0 salarié
+Fonds de solidarité,VOLET1,25487,4887,110297744.00,53,Bretagne,35,Ille-et-Vilaine,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,10741,2052,65190896.00,53,Bretagne,35,Ille-et-Vilaine,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,4437,787,39840216.00,53,Bretagne,35,Ille-et-Vilaine,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,2436,408,36946922.00,53,Bretagne,35,Ille-et-Vilaine,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,647,124,27738505.00,53,Bretagne,35,Ille-et-Vilaine,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,66,13,3478824.00,53,Bretagne,35,Ille-et-Vilaine,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,16,3,3123238.00,53,Bretagne,35,Ille-et-Vilaine,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,8,4,1600000.00,53,Bretagne,35,Ille-et-Vilaine,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,6859,1507,14397015.00,53,Bretagne,35,Ille-et-Vilaine,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,10230,1805,40074291.00,53,Bretagne,56,Morbihan,00,0 salarié
+Fonds de solidarité,VOLET1,21417,4155,95074908.00,53,Bretagne,56,Morbihan,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,8376,1608,49645629.00,53,Bretagne,56,Morbihan,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2757,542,24394691.00,53,Bretagne,56,Morbihan,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1157,204,18399697.00,53,Bretagne,56,Morbihan,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,369,74,13193546.00,53,Bretagne,56,Morbihan,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,35,10,2902591.00,53,Bretagne,56,Morbihan,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,6528,1417,13604080.00,53,Bretagne,56,Morbihan,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2229,420,7460212.00,24,Centre-Val de Loire,18,Cher,00,0 salarié
+Fonds de solidarité,VOLET1,6439,1329,25529501.00,24,Centre-Val de Loire,18,Cher,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2417,513,14378701.00,24,Centre-Val de Loire,18,Cher,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,777,173,6155297.00,24,Centre-Val de Loire,18,Cher,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,384,68,5528845.00,24,Centre-Val de Loire,18,Cher,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,60,15,2194039.00,24,Centre-Val de Loire,18,Cher,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,2528,596,4986108.00,24,Centre-Val de Loire,18,Cher,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2684,570,7687301.00,24,Centre-Val de Loire,28,Eure-et-Loir,00,0 salarié
+Fonds de solidarité,VOLET1,8512,1796,31515395.00,24,Centre-Val de Loire,28,Eure-et-Loir,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,3213,694,17122364.00,24,Centre-Val de Loire,28,Eure-et-Loir,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1120,217,8920533.00,24,Centre-Val de Loire,28,Eure-et-Loir,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,415,61,6604368.00,24,Centre-Val de Loire,28,Eure-et-Loir,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,176,27,4846310.00,24,Centre-Val de Loire,28,Eure-et-Loir,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,26,3,1584523.00,24,Centre-Val de Loire,28,Eure-et-Loir,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,2386,541,4590513.00,24,Centre-Val de Loire,28,Eure-et-Loir,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,1521,285,4807603.00,24,Centre-Val de Loire,36,Indre,00,0 salarié
+Fonds de solidarité,VOLET1,4888,974,18098008.00,24,Centre-Val de Loire,36,Indre,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,1878,408,10393616.00,24,Centre-Val de Loire,36,Indre,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,551,123,3402515.00,24,Centre-Val de Loire,36,Indre,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,249,45,3308117.00,24,Centre-Val de Loire,36,Indre,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,87,19,3474822.00,24,Centre-Val de Loire,36,Indre,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,23,4,2254142.00,24,Centre-Val de Loire,36,Indre,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,2100,413,3712907.00,24,Centre-Val de Loire,36,Indre,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,5781,1081,19435598.00,24,Centre-Val de Loire,37,Indre-et-Loire,00,0 salarié
+Fonds de solidarité,VOLET1,15237,3039,63734941.00,24,Centre-Val de Loire,37,Indre-et-Loire,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,6343,1190,36246854.00,24,Centre-Val de Loire,37,Indre-et-Loire,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2240,393,19662213.00,24,Centre-Val de Loire,37,Indre-et-Loire,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1039,176,19473820.00,24,Centre-Val de Loire,37,Indre-et-Loire,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,361,65,11562055.00,24,Centre-Val de Loire,37,Indre-et-Loire,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,26,5,3178806.00,24,Centre-Val de Loire,37,Indre-et-Loire,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,4742,1019,10059917.00,24,Centre-Val de Loire,37,Indre-et-Loire,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,4392,933,13374288.00,24,Centre-Val de Loire,45,Loiret,00,0 salarié
+Fonds de solidarité,VOLET1,13752,2900,52053158.00,24,Centre-Val de Loire,45,Loiret,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,6147,1217,35231195.00,24,Centre-Val de Loire,45,Loiret,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1814,352,15141967.00,24,Centre-Val de Loire,45,Loiret,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1109,182,16453027.00,24,Centre-Val de Loire,45,Loiret,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,298,55,10163898.00,24,Centre-Val de Loire,45,Loiret,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,4123,903,8015624.00,24,Centre-Val de Loire,45,Loiret,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2667,513,9174677.00,24,Centre-Val de Loire,41,Loir-et-Cher,00,0 salarié
+Fonds de solidarité,VOLET1,8139,1682,32790896.00,24,Centre-Val de Loire,41,Loir-et-Cher,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,3053,642,16836724.00,24,Centre-Val de Loire,41,Loir-et-Cher,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,750,173,5287088.00,24,Centre-Val de Loire,41,Loir-et-Cher,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,498,91,7591883.00,24,Centre-Val de Loire,41,Loir-et-Cher,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,132,27,6512113.00,24,Centre-Val de Loire,41,Loir-et-Cher,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,30,5,2764716.00,24,Centre-Val de Loire,41,Loir-et-Cher,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,2402,544,5006362.00,24,Centre-Val de Loire,41,Loir-et-Cher,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,3071,485,10691914.00,94,Corse,2A,Corse-du-Sud,00,0 salarié
+Fonds de solidarité,VOLET1,11548,1887,48633718.00,94,Corse,2A,Corse-du-Sud,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,6873,1049,42126119.00,94,Corse,2A,Corse-du-Sud,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2311,377,20283027.00,94,Corse,2A,Corse-du-Sud,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1174,180,22040591.00,94,Corse,2A,Corse-du-Sud,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,283,50,11865359.00,94,Corse,2A,Corse-du-Sud,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,59,10,4574386.00,94,Corse,2A,Corse-du-Sud,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,2278,531,4590566.00,94,Corse,2A,Corse-du-Sud,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,7485,1049,31913247.00,94,Corse,2B,Haute-Corse,00,0 salarié
+Fonds de solidarité,VOLET1,11830,1965,50600286.00,94,Corse,2B,Haute-Corse,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,4050,721,24087992.00,94,Corse,2B,Haute-Corse,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1287,224,11216371.00,94,Corse,2B,Haute-Corse,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,503,102,9697659.00,94,Corse,2B,Haute-Corse,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,165,35,10280667.00,94,Corse,2B,Haute-Corse,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,4079,721,7611123.00,94,Corse,2B,Haute-Corse,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,1869,365,5128374.00,44,Grand Est,08,Ardennes,00,0 salarié
+Fonds de solidarité,VOLET1,5811,1187,20497971.00,44,Grand Est,08,Ardennes,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2049,435,10131366.00,44,Grand Est,08,Ardennes,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,680,148,4026581.00,44,Grand Est,08,Ardennes,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,334,59,4800875.00,44,Grand Est,08,Ardennes,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,130,22,3551524.00,44,Grand Est,08,Ardennes,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,2320,471,4426537.00,44,Grand Est,08,Ardennes,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2926,667,10777047.00,44,Grand Est,10,Aube,00,0 salarié
+Fonds de solidarité,VOLET1,9039,1839,45676634.00,44,Grand Est,10,Aube,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,3402,676,23093236.00,44,Grand Est,10,Aube,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1035,209,8482755.00,44,Grand Est,10,Aube,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,549,92,9482344.00,44,Grand Est,10,Aube,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,142,31,4459164.00,44,Grand Est,10,Aube,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,4449,1055,16441730.00,44,Grand Est,10,Aube,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,11387,2133,36635817.00,44,Grand Est,67,Bas-Rhin,00,0 salarié
+Fonds de solidarité,VOLET1,33748,6781,130824436.00,44,Grand Est,67,Bas-Rhin,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,15287,2816,86848983.00,44,Grand Est,67,Bas-Rhin,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,6758,1071,55049381.00,44,Grand Est,67,Bas-Rhin,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,3549,507,55190971.00,44,Grand Est,67,Bas-Rhin,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1214,186,48190524.00,44,Grand Est,67,Bas-Rhin,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,130,24,12041340.00,44,Grand Est,67,Bas-Rhin,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,8,5,1447560.00,44,Grand Est,67,Bas-Rhin,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,10041,2034,19969926.00,44,Grand Est,67,Bas-Rhin,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,1187,255,3310054.00,44,Grand Est,52,Haute-Marne,00,0 salarié
+Fonds de solidarité,VOLET1,3354,710,12134296.00,44,Grand Est,52,Haute-Marne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,1253,260,6340436.00,44,Grand Est,52,Haute-Marne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,480,103,3364781.00,44,Grand Est,52,Haute-Marne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,298,47,3628251.00,44,Grand Est,52,Haute-Marne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,73,15,2555033.00,44,Grand Est,52,Haute-Marne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,1326,296,2632822.00,44,Grand Est,52,Haute-Marne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,7574,1429,27340637.00,44,Grand Est,68,Haut-Rhin,00,0 salarié
+Fonds de solidarité,VOLET1,21455,4192,90152051.00,44,Grand Est,68,Haut-Rhin,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,10181,1865,58042971.00,44,Grand Est,68,Haut-Rhin,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,3760,619,30968023.00,44,Grand Est,68,Haut-Rhin,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,2167,318,36638183.00,44,Grand Est,68,Haut-Rhin,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,735,113,29434553.00,44,Grand Est,68,Haut-Rhin,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,61,10,5671082.00,44,Grand Est,68,Haut-Rhin,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,17,4,1294635.00,44,Grand Est,68,Haut-Rhin,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,5128,1144,10038574.00,44,Grand Est,68,Haut-Rhin,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,6296,1434,26334806.00,44,Grand Est,51,Marne,00,0 salarié
+Fonds de solidarité,VOLET1,19728,4290,106086501.00,44,Grand Est,51,Marne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,7801,1660,62700388.00,44,Grand Est,51,Marne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2696,532,28209248.00,44,Grand Est,51,Marne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1353,209,27044325.00,44,Grand Est,51,Marne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,415,71,15180961.00,44,Grand Est,51,Marne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,30,8,2526807.00,44,Grand Est,51,Marne,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,13305,3405,51452483.00,44,Grand Est,51,Marne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,4418,910,13160635.00,44,Grand Est,54,Meurthe-et-Moselle,00,0 salarié
+Fonds de solidarité,VOLET1,13932,2854,53858540.00,44,Grand Est,54,Meurthe-et-Moselle,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,5213,1067,26540704.00,44,Grand Est,54,Meurthe-et-Moselle,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2001,393,16156083.00,44,Grand Est,54,Meurthe-et-Moselle,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1240,185,16844124.00,44,Grand Est,54,Meurthe-et-Moselle,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,344,58,9581602.00,44,Grand Est,54,Meurthe-et-Moselle,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,43,9,3828715.00,44,Grand Est,54,Meurthe-et-Moselle,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,4997,1017,9170497.00,44,Grand Est,54,Meurthe-et-Moselle,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,1309,252,3566552.00,44,Grand Est,55,Meuse,00,0 salarié
+Fonds de solidarité,VOLET1,3487,709,13203657.00,44,Grand Est,55,Meuse,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,1242,243,6262388.00,44,Grand Est,55,Meuse,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,435,85,2973140.00,44,Grand Est,55,Meuse,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,176,28,2045327.00,44,Grand Est,55,Meuse,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,59,10,1986639.00,44,Grand Est,55,Meuse,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,1445,301,2496988.00,44,Grand Est,55,Meuse,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,5951,1280,16690418.00,44,Grand Est,57,Moselle,00,0 salarié
+Fonds de solidarité,VOLET1,20988,4303,75018497.00,44,Grand Est,57,Moselle,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,10125,1979,54178516.00,44,Grand Est,57,Moselle,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,4036,728,29943166.00,44,Grand Est,57,Moselle,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1718,260,24855676.00,44,Grand Est,57,Moselle,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,399,76,16084672.00,44,Grand Est,57,Moselle,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,80,14,6185133.00,44,Grand Est,57,Moselle,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,12,3,2200429.00,44,Grand Est,57,Moselle,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,5310,1171,10247248.00,44,Grand Est,57,Moselle,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,3939,759,12374231.00,44,Grand Est,88,Vosges,00,0 salarié
+Fonds de solidarité,VOLET1,10146,1998,42626149.00,44,Grand Est,88,Vosges,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,3743,729,19479511.00,44,Grand Est,88,Vosges,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1315,238,8861316.00,44,Grand Est,88,Vosges,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,592,107,7329596.00,44,Grand Est,88,Vosges,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,204,43,7550258.00,44,Grand Est,88,Vosges,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,34,5,2626100.00,44,Grand Est,88,Vosges,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,3638,782,7041046.00,44,Grand Est,88,Vosges,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,4189,797,9186399.00,01,Guadeloupe,971,Guadeloupe,00,0 salarié
+Fonds de solidarité,VOLET1,14364,2812,36198911.00,01,Guadeloupe,971,Guadeloupe,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,5219,1053,20481621.00,01,Guadeloupe,971,Guadeloupe,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2020,408,13691790.00,01,Guadeloupe,971,Guadeloupe,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,768,137,9929275.00,01,Guadeloupe,971,Guadeloupe,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,242,36,12803170.00,01,Guadeloupe,971,Guadeloupe,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,39,6,1881775.00,01,Guadeloupe,971,Guadeloupe,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,42,7,4790150.00,01,Guadeloupe,971,Guadeloupe,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,15736,2768,24686069.00,01,Guadeloupe,971,Guadeloupe,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2601,377,5956007.00,03,Guyane,973,Guyane,00,0 salarié
+Fonds de solidarité,VOLET1,6279,957,15206435.00,03,Guyane,973,Guyane,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2456,410,7383072.00,03,Guyane,973,Guyane,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,951,150,4274646.00,03,Guyane,973,Guyane,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,403,60,2849572.00,03,Guyane,973,Guyane,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,128,14,2483190.00,03,Guyane,973,Guyane,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,4544,592,8328779.00,03,Guyane,973,Guyane,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,3166,633,10167856.00,32,Hauts-de-France,02,Aisne,00,0 salarié
+Fonds de solidarité,VOLET1,9530,1965,38703175.00,32,Hauts-de-France,02,Aisne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,4095,819,22457220.00,32,Hauts-de-France,02,Aisne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1152,257,7399840.00,32,Hauts-de-France,02,Aisne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,539,94,7477379.00,32,Hauts-de-France,02,Aisne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,274,47,10271251.00,32,Hauts-de-France,02,Aisne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,24,4,1202161.00,32,Hauts-de-France,02,Aisne,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,3904,839,10182702.00,32,Hauts-de-France,02,Aisne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,17781,3320,51411601.00,32,Hauts-de-France,59,Nord,00,0 salarié
+Fonds de solidarité,VOLET1,52626,9850,203792194.00,32,Hauts-de-France,59,Nord,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,22535,3972,130347557.00,32,Hauts-de-France,59,Nord,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,8536,1482,67197655.00,32,Hauts-de-France,59,Nord,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,4199,659,61603005.00,32,Hauts-de-France,59,Nord,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1513,273,48410221.00,32,Hauts-de-France,59,Nord,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,170,32,13250278.00,32,Hauts-de-France,59,Nord,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,32,11,4988135.00,32,Hauts-de-France,59,Nord,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,11,4,2000490.00,32,Hauts-de-France,59,Nord,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,13,5,2200300.00,32,Hauts-de-France,59,Nord,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,21,6,1786401.00,32,Hauts-de-France,59,Nord,41,500 à 999 salariés
+Fonds de solidarité,VOLET1,24,6,3893092.00,32,Hauts-de-France,59,Nord,42,1 000 à 1 999 salariés
+Fonds de solidarité,VOLET1,13854,2910,25851502.00,32,Hauts-de-France,59,Nord,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,5077,1051,15077458.00,32,Hauts-de-France,60,Oise,00,0 salarié
+Fonds de solidarité,VOLET1,15988,3288,58178585.00,32,Hauts-de-France,60,Oise,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,6484,1318,35321758.00,32,Hauts-de-France,60,Oise,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2136,426,14922445.00,32,Hauts-de-France,60,Oise,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1046,180,15073665.00,32,Hauts-de-France,60,Oise,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,420,66,16248325.00,32,Hauts-de-France,60,Oise,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,33,7,3536065.00,32,Hauts-de-France,60,Oise,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,29,5,3735846.00,32,Hauts-de-France,60,Oise,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,4330,992,8359510.00,32,Hauts-de-France,60,Oise,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,8891,1728,24679954.00,32,Hauts-de-France,62,Pas-de-Calais,00,0 salarié
+Fonds de solidarité,VOLET1,27563,5482,104350043.00,32,Hauts-de-France,62,Pas-de-Calais,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,10414,2044,57249133.00,32,Hauts-de-France,62,Pas-de-Calais,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,4012,753,30947397.00,32,Hauts-de-France,62,Pas-de-Calais,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1878,327,28415340.00,32,Hauts-de-France,62,Pas-de-Calais,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,815,141,29036462.00,32,Hauts-de-France,62,Pas-de-Calais,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,86,14,6874947.00,32,Hauts-de-France,62,Pas-de-Calais,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,8669,1784,15843606.00,32,Hauts-de-France,62,Pas-de-Calais,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,3680,733,11981010.00,32,Hauts-de-France,80,Somme,00,0 salarié
+Fonds de solidarité,VOLET1,10892,2156,42374201.00,32,Hauts-de-France,80,Somme,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,4693,900,24948028.00,32,Hauts-de-France,80,Somme,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1597,298,13483502.00,32,Hauts-de-France,80,Somme,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,791,128,12298015.00,32,Hauts-de-France,80,Somme,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,393,89,11833949.00,32,Hauts-de-France,80,Somme,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,16,4,1018778.00,32,Hauts-de-France,80,Somme,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,3591,787,6975912.00,32,Hauts-de-France,80,Somme,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,9497,1717,26429236.00,11,Île-de-France,91,Essonne,00,0 salarié
+Fonds de solidarité,VOLET1,25482,5193,88193129.00,11,Île-de-France,91,Essonne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,11177,2278,61230962.00,11,Île-de-France,91,Essonne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,4116,796,32619517.00,11,Île-de-France,91,Essonne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1700,297,28719823.00,11,Île-de-France,91,Essonne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,689,120,27787062.00,11,Île-de-France,91,Essonne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,70,14,6599453.00,11,Île-de-France,91,Essonne,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,37,8,4744729.00,11,Île-de-France,91,Essonne,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,7,3,946799.00,11,Île-de-France,91,Essonne,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,24,4,3841622.00,11,Île-de-France,91,Essonne,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,7853,1587,16201787.00,11,Île-de-France,91,Essonne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,19598,3144,62313484.00,11,Île-de-France,92,Hauts-de-Seine,00,0 salarié
+Fonds de solidarité,VOLET1,45883,7717,185506772.00,11,Île-de-France,92,Hauts-de-Seine,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,24114,3778,154315254.00,11,Île-de-France,92,Hauts-de-Seine,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,10098,1498,102048885.00,11,Île-de-France,92,Hauts-de-Seine,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,4864,711,96968180.00,11,Île-de-France,92,Hauts-de-Seine,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1609,280,79222710.00,11,Île-de-France,92,Hauts-de-Seine,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,235,43,26763216.00,11,Île-de-France,92,Hauts-de-Seine,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,143,32,19686374.00,11,Île-de-France,92,Hauts-de-Seine,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,11,4,2184486.00,11,Île-de-France,92,Hauts-de-Seine,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,45,7,5824754.00,11,Île-de-France,92,Hauts-de-Seine,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,45,10,8494673.00,11,Île-de-France,92,Hauts-de-Seine,41,500 à 999 salariés
+Fonds de solidarité,VOLET1,21,7,3935979.00,11,Île-de-France,92,Hauts-de-Seine,42,1 000 à 1 999 salariés
+Fonds de solidarité,VOLET1,26,4,4534035.00,11,Île-de-France,92,Hauts-de-Seine,51,2 000 à 4 999 salariés
+Fonds de solidarité,VOLET1,14738,2648,28455784.00,11,Île-de-France,92,Hauts-de-Seine,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,61111,9650,221214574.00,11,Île-de-France,75,Paris,00,0 salarié
+Fonds de solidarité,VOLET1,163754,25458,712928173.00,11,Île-de-France,75,Paris,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,94693,12852,654072914.00,11,Île-de-France,75,Paris,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,50669,6175,543533939.00,11,Île-de-France,75,Paris,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,30997,3832,597721608.00,11,Île-de-France,75,Paris,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,10286,1383,485241589.00,11,Île-de-France,75,Paris,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,1363,232,135298874.00,11,Île-de-France,75,Paris,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,461,98,70870045.00,11,Île-de-France,75,Paris,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,85,19,13197711.00,11,Île-de-France,75,Paris,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,269,58,47635718.00,11,Île-de-France,75,Paris,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,100,26,17804532.00,11,Île-de-France,75,Paris,41,500 à 999 salariés
+Fonds de solidarité,VOLET1,38,9,6353564.00,11,Île-de-France,75,Paris,42,1 000 à 1 999 salariés
+Fonds de solidarité,VOLET1,12,4,2400000.00,11,Île-de-France,75,Paris,51,2 000 à 4 999 salariés
+Fonds de solidarité,VOLET1,53210,8887,117983475.00,11,Île-de-France,75,Paris,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,11667,2099,33715913.00,11,Île-de-France,77,Seine-et-Marne,00,0 salarié
+Fonds de solidarité,VOLET1,30917,6221,110353552.00,11,Île-de-France,77,Seine-et-Marne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,13015,2669,73179759.00,11,Île-de-France,77,Seine-et-Marne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,5216,952,41201794.00,11,Île-de-France,77,Seine-et-Marne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,2395,387,40198772.00,11,Île-de-France,77,Seine-et-Marne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,846,141,33442422.00,11,Île-de-France,77,Seine-et-Marne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,100,17,9622820.00,11,Île-de-France,77,Seine-et-Marne,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,15,3,2580580.00,11,Île-de-France,77,Seine-et-Marne,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,11261,1989,20353737.00,11,Île-de-France,77,Seine-et-Marne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,15557,2399,42022039.00,11,Île-de-France,93,Seine-Saint-Denis,00,0 salarié
+Fonds de solidarité,VOLET1,48946,8597,165060045.00,11,Île-de-France,93,Seine-Saint-Denis,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,24154,4652,133188084.00,11,Île-de-France,93,Seine-Saint-Denis,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,7783,1537,64664489.00,11,Île-de-France,93,Seine-Saint-Denis,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,3574,601,53318008.00,11,Île-de-France,93,Seine-Saint-Denis,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1215,205,50187475.00,11,Île-de-France,93,Seine-Saint-Denis,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,132,24,13170608.00,11,Île-de-France,93,Seine-Saint-Denis,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,37,16,4344147.00,11,Île-de-France,93,Seine-Saint-Denis,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,24,4,4201621.00,11,Île-de-France,93,Seine-Saint-Denis,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,33,9,3512819.00,11,Île-de-France,93,Seine-Saint-Denis,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,15799,2347,29208161.00,11,Île-de-France,93,Seine-Saint-Denis,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,13531,2243,41369576.00,11,Île-de-France,94,Val-de-Marne,00,0 salarié
+Fonds de solidarité,VOLET1,37475,6657,132617726.00,11,Île-de-France,94,Val-de-Marne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,16600,3050,90434191.00,11,Île-de-France,94,Val-de-Marne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,6338,1078,57764269.00,11,Île-de-France,94,Val-de-Marne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,2687,433,45573530.00,11,Île-de-France,94,Val-de-Marne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1117,187,55642925.00,11,Île-de-France,94,Val-de-Marne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,91,15,10436370.00,11,Île-de-France,94,Val-de-Marne,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,63,14,7635061.00,11,Île-de-France,94,Val-de-Marne,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,20,4,2875409.00,11,Île-de-France,94,Val-de-Marne,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,9,4,1006000.00,11,Île-de-France,94,Val-de-Marne,41,500 à 999 salariés
+Fonds de solidarité,VOLET1,17,4,3200851.00,11,Île-de-France,94,Val-de-Marne,42,1 000 à 1 999 salariés
+Fonds de solidarité,VOLET1,13724,2205,24936793.00,11,Île-de-France,94,Val-de-Marne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,9799,1672,25694315.00,11,Île-de-France,95,Val-d'Oise,00,0 salarié
+Fonds de solidarité,VOLET1,29016,5526,96532237.00,11,Île-de-France,95,Val-d'Oise,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,12672,2586,65609404.00,11,Île-de-France,95,Val-d'Oise,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,4635,883,32712410.00,11,Île-de-France,95,Val-d'Oise,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,2141,367,29333404.00,11,Île-de-France,95,Val-d'Oise,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,722,122,30889755.00,11,Île-de-France,95,Val-d'Oise,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,83,21,5790835.00,11,Île-de-France,95,Val-d'Oise,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,36,9,5371782.00,11,Île-de-France,95,Val-d'Oise,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,9558,1686,17366934.00,11,Île-de-France,95,Val-d'Oise,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,10489,2050,30587538.00,11,Île-de-France,78,Yvelines,00,0 salarié
+Fonds de solidarité,VOLET1,27868,5750,106603701.00,11,Île-de-France,78,Yvelines,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,13258,2493,78316230.00,11,Île-de-France,78,Yvelines,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,5391,918,44811786.00,11,Île-de-France,78,Yvelines,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,2455,391,43286206.00,11,Île-de-France,78,Yvelines,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,847,138,35538574.00,11,Île-de-France,78,Yvelines,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,89,15,6769076.00,11,Île-de-France,78,Yvelines,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,20,7,2738075.00,11,Île-de-France,78,Yvelines,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,18,3,1771346.00,11,Île-de-France,78,Yvelines,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,9202,1957,18521083.00,11,Île-de-France,78,Yvelines,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,8171,1913,16876204.00,04,La Réunion,974,La Réunion,00,0 salarié
+Fonds de solidarité,VOLET1,18338,4979,41287345.00,04,La Réunion,974,La Réunion,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,6392,1894,21970305.00,04,La Réunion,974,La Réunion,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2831,741,18485757.00,04,La Réunion,974,La Réunion,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1273,233,20804705.00,04,La Réunion,974,La Réunion,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,398,71,16733167.00,04,La Réunion,974,La Réunion,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,116,17,7791001.00,04,La Réunion,974,La Réunion,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,14,4,1203174.00,04,La Réunion,974,La Réunion,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,8803,2144,12663437.00,04,La Réunion,974,La Réunion,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,3805,699,9123175.00,02,Martinique,972,Martinique,00,0 salarié
+Fonds de solidarité,VOLET1,11695,2248,32962731.00,02,Martinique,972,Martinique,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,4567,967,20680072.00,02,Martinique,972,Martinique,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1913,398,12352831.00,02,Martinique,972,Martinique,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,981,161,11896140.00,02,Martinique,972,Martinique,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,358,56,10772714.00,02,Martinique,972,Martinique,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,55,7,2597532.00,02,Martinique,972,Martinique,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,14,4,1153896.00,02,Martinique,972,Martinique,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,8488,1493,12672414.00,02,Martinique,972,Martinique,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,1362,243,4636016.00,06,Mayotte,976,Mayotte,00,0 salarié
+Fonds de solidarité,VOLET1,948,139,2624236.00,06,Mayotte,976,Mayotte,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,331,64,1000068.00,06,Mayotte,976,Mayotte,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,93,23,295835.00,06,Mayotte,976,Mayotte,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,57,10,207876.00,06,Mayotte,976,Mayotte,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,25,6,509896.00,06,Mayotte,976,Mayotte,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,10,6,20871.00,06,Mayotte,976,Mayotte,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,8238,1486,29443988.00,28,Normandie,14,Calvados,00,0 salarié
+Fonds de solidarité,VOLET1,19219,3815,80803034.00,28,Normandie,14,Calvados,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,7947,1450,48565156.00,28,Normandie,14,Calvados,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,3305,547,30818197.00,28,Normandie,14,Calvados,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1685,269,27527152.00,28,Normandie,14,Calvados,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,568,96,21794536.00,28,Normandie,14,Calvados,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,49,12,2535962.00,28,Normandie,14,Calvados,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,17,6,2148536.00,28,Normandie,14,Calvados,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,5163,1128,10549890.00,28,Normandie,14,Calvados,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,4301,857,12999447.00,28,Normandie,27,Eure,00,0 salarié
+Fonds de solidarité,VOLET1,12108,2542,45500795.00,28,Normandie,27,Eure,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,4551,944,23826322.00,28,Normandie,27,Eure,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1413,288,9578543.00,28,Normandie,27,Eure,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,551,97,8111802.00,28,Normandie,27,Eure,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,186,37,5789795.00,28,Normandie,27,Eure,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,32,5,2018175.00,28,Normandie,27,Eure,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,3709,804,7362752.00,28,Normandie,27,Eure,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,5230,943,18635018.00,28,Normandie,50,Manche,00,0 salarié
+Fonds de solidarité,VOLET1,12702,2491,54029107.00,28,Normandie,50,Manche,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,4750,939,27648747.00,28,Normandie,50,Manche,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1721,338,14827807.00,28,Normandie,50,Manche,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,612,101,9293503.00,28,Normandie,50,Manche,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,230,46,9219839.00,28,Normandie,50,Manche,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,32,4,1553227.00,28,Normandie,50,Manche,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,3558,791,7094643.00,28,Normandie,50,Manche,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2269,447,6914148.00,28,Normandie,61,Orne,00,0 salarié
+Fonds de solidarité,VOLET1,6652,1362,25555168.00,28,Normandie,61,Orne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2109,439,10676051.00,28,Normandie,61,Orne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,579,126,3536046.00,28,Normandie,61,Orne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,210,43,4370314.00,28,Normandie,61,Orne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,87,15,2472849.00,28,Normandie,61,Orne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,2333,519,4752943.00,28,Normandie,61,Orne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,7956,1510,24914330.00,28,Normandie,76,Seine-Maritime,00,0 salarié
+Fonds de solidarité,VOLET1,24901,4894,101333061.00,28,Normandie,76,Seine-Maritime,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,10935,2010,63512669.00,28,Normandie,76,Seine-Maritime,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,4056,725,32739411.00,28,Normandie,76,Seine-Maritime,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,2158,335,30150701.00,28,Normandie,76,Seine-Maritime,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,786,130,26465256.00,28,Normandie,76,Seine-Maritime,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,77,16,6359228.00,28,Normandie,76,Seine-Maritime,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,22,5,2612337.00,28,Normandie,76,Seine-Maritime,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,6535,1434,12470406.00,28,Normandie,76,Seine-Maritime,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2840,572,8235164.00,75,Nouvelle-Aquitaine,16,Charente,00,0 salarié
+Fonds de solidarité,VOLET1,7770,1669,30048064.00,75,Nouvelle-Aquitaine,16,Charente,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2896,615,15762604.00,75,Nouvelle-Aquitaine,16,Charente,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1130,220,9303602.00,75,Nouvelle-Aquitaine,16,Charente,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,493,81,7493764.00,75,Nouvelle-Aquitaine,16,Charente,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,176,29,6521292.00,75,Nouvelle-Aquitaine,16,Charente,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,30,7,2700504.00,75,Nouvelle-Aquitaine,16,Charente,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,2905,638,5215227.00,75,Nouvelle-Aquitaine,16,Charente,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,11827,2161,45008899.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,00,0 salarié
+Fonds de solidarité,VOLET1,20230,4352,84903700.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,7415,1537,47079725.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2541,523,24304927.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1193,211,19796990.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,468,85,19688788.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,27,6,1976948.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,20,4,3519163.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,5675,1376,11267781.00,75,Nouvelle-Aquitaine,17,Charente-Maritime,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2812,517,9029806.00,75,Nouvelle-Aquitaine,19,Corrèze,00,0 salarié
+Fonds de solidarité,VOLET1,6692,1357,26477908.00,75,Nouvelle-Aquitaine,19,Corrèze,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2272,464,11828158.00,75,Nouvelle-Aquitaine,19,Corrèze,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,879,166,6455651.00,75,Nouvelle-Aquitaine,19,Corrèze,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,420,66,6119391.00,75,Nouvelle-Aquitaine,19,Corrèze,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,120,23,4994425.00,75,Nouvelle-Aquitaine,19,Corrèze,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,3230,799,5963178.00,75,Nouvelle-Aquitaine,19,Corrèze,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,1000,171,2898309.00,75,Nouvelle-Aquitaine,23,Creuse,00,0 salarié
+Fonds de solidarité,VOLET1,2647,549,8991190.00,75,Nouvelle-Aquitaine,23,Creuse,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,916,182,4363940.00,75,Nouvelle-Aquitaine,23,Creuse,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,183,38,1433669.00,75,Nouvelle-Aquitaine,23,Creuse,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,65,13,941883.00,75,Nouvelle-Aquitaine,23,Creuse,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,58,9,1557772.00,75,Nouvelle-Aquitaine,23,Creuse,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,1293,324,2307229.00,75,Nouvelle-Aquitaine,23,Creuse,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2126,445,6425900.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,00,0 salarié
+Fonds de solidarité,VOLET1,7149,1525,27499219.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2696,573,14033436.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,905,182,6948093.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,488,77,7954510.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,142,28,5849997.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,37,6,2108655.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,2139,483,4043679.00,75,Nouvelle-Aquitaine,79,Deux-Sèvres,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,7958,1285,29416639.00,75,Nouvelle-Aquitaine,24,Dordogne,00,0 salarié
+Fonds de solidarité,VOLET1,13831,2759,57159474.00,75,Nouvelle-Aquitaine,24,Dordogne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,4405,896,24507955.00,75,Nouvelle-Aquitaine,24,Dordogne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1359,284,10358380.00,75,Nouvelle-Aquitaine,24,Dordogne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,694,112,9841113.00,75,Nouvelle-Aquitaine,24,Dordogne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,169,32,5657661.00,75,Nouvelle-Aquitaine,24,Dordogne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,25,4,2496563.00,75,Nouvelle-Aquitaine,24,Dordogne,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,5085,1186,9690485.00,75,Nouvelle-Aquitaine,24,Dordogne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,22935,4582,79334121.00,75,Nouvelle-Aquitaine,33,Gironde,00,0 salarié
+Fonds de solidarité,VOLET1,48756,10181,202428193.00,75,Nouvelle-Aquitaine,33,Gironde,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,20919,4074,125612834.00,75,Nouvelle-Aquitaine,33,Gironde,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,8887,1566,74848146.00,75,Nouvelle-Aquitaine,33,Gironde,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,4374,708,70113375.00,75,Nouvelle-Aquitaine,33,Gironde,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1457,251,55202699.00,75,Nouvelle-Aquitaine,33,Gironde,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,134,28,9760565.00,75,Nouvelle-Aquitaine,33,Gironde,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,47,12,4799168.00,75,Nouvelle-Aquitaine,33,Gironde,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,3,3,203000.00,75,Nouvelle-Aquitaine,33,Gironde,41,500 à 999 salariés
+Fonds de solidarité,VOLET1,16002,3610,37345439.00,75,Nouvelle-Aquitaine,33,Gironde,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,3374,629,9772613.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,00,0 salarié
+Fonds de solidarité,VOLET1,8139,1636,30850840.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,3184,644,17589359.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1270,220,8728605.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,658,116,9426394.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,273,42,10480526.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,3419,753,6355562.00,75,Nouvelle-Aquitaine,87,Haute-Vienne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,8207,1436,31410627.00,75,Nouvelle-Aquitaine,40,Landes,00,0 salarié
+Fonds de solidarité,VOLET1,12622,2597,50666960.00,75,Nouvelle-Aquitaine,40,Landes,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,4228,898,23529807.00,75,Nouvelle-Aquitaine,40,Landes,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1489,293,13630071.00,75,Nouvelle-Aquitaine,40,Landes,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,665,114,9121759.00,75,Nouvelle-Aquitaine,40,Landes,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,390,65,13839797.00,75,Nouvelle-Aquitaine,40,Landes,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,32,6,2796751.00,75,Nouvelle-Aquitaine,40,Landes,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,3682,830,7126295.00,75,Nouvelle-Aquitaine,40,Landes,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,4037,778,13175756.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,00,0 salarié
+Fonds de solidarité,VOLET1,8503,1825,31205794.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,3237,691,16621055.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,898,211,5986418.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,431,68,5849523.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,126,25,6051683.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,3104,756,5901657.00,75,Nouvelle-Aquitaine,47,Lot-et-Garonne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,10495,1859,37268506.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,00,0 salarié
+Fonds de solidarité,VOLET1,24154,4833,99619182.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,9643,1835,56975676.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,3600,673,29906516.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1680,296,25545382.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,548,107,20469267.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,68,17,4399348.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,8233,1925,16234296.00,75,Nouvelle-Aquitaine,64,Pyrénées-Atlantiques,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2866,578,8774736.00,75,Nouvelle-Aquitaine,86,Vienne,00,0 salarié
+Fonds de solidarité,VOLET1,8485,1782,31952222.00,75,Nouvelle-Aquitaine,86,Vienne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,3147,655,15627399.00,75,Nouvelle-Aquitaine,86,Vienne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1280,248,10269381.00,75,Nouvelle-Aquitaine,86,Vienne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,673,107,10532019.00,75,Nouvelle-Aquitaine,86,Vienne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,342,49,11188683.00,75,Nouvelle-Aquitaine,86,Vienne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,42,9,2282795.00,75,Nouvelle-Aquitaine,86,Vienne,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,2645,601,5397596.00,75,Nouvelle-Aquitaine,86,Vienne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,1196,250,3098618.00,76,Occitanie,09,Ariège,00,0 salarié
+Fonds de solidarité,VOLET1,4784,911,18359661.00,76,Occitanie,09,Ariège,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,1991,339,11259974.00,76,Occitanie,09,Ariège,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,544,103,3783649.00,76,Occitanie,09,Ariège,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,217,39,2562720.00,76,Occitanie,09,Ariège,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,86,13,2194950.00,76,Occitanie,09,Ariège,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,1856,451,3263975.00,76,Occitanie,09,Ariège,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,7955,1296,28850067.00,76,Occitanie,11,Aude,00,0 salarié
+Fonds de solidarité,VOLET1,13237,2502,54623207.00,76,Occitanie,11,Aude,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,4435,868,24800811.00,76,Occitanie,11,Aude,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1618,285,11433096.00,76,Occitanie,11,Aude,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,689,110,10011575.00,76,Occitanie,11,Aude,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,224,44,6565975.00,76,Occitanie,11,Aude,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,24,6,1470495.00,76,Occitanie,11,Aude,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,4103,867,7691101.00,76,Occitanie,11,Aude,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,4997,859,17548159.00,76,Occitanie,12,Aveyron,00,0 salarié
+Fonds de solidarité,VOLET1,9525,1924,36921338.00,76,Occitanie,12,Aveyron,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,3139,628,16679278.00,76,Occitanie,12,Aveyron,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1112,204,7364473.00,76,Occitanie,12,Aveyron,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,499,93,7842250.00,76,Occitanie,12,Aveyron,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,164,36,6603172.00,76,Occitanie,12,Aveyron,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,4499,1082,7837262.00,76,Occitanie,12,Aveyron,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,12051,2152,39312833.00,76,Occitanie,30,Gard,00,0 salarié
+Fonds de solidarité,VOLET1,27354,5263,104055579.00,76,Occitanie,30,Gard,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,8714,1726,48590721.00,76,Occitanie,30,Gard,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2620,524,20395096.00,76,Occitanie,30,Gard,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1170,206,16784012.00,76,Occitanie,30,Gard,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,313,60,14187350.00,76,Occitanie,30,Gard,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,45,9,2599738.00,76,Occitanie,30,Gard,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,7,3,1400000.00,76,Occitanie,30,Gard,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,9340,1953,17513746.00,76,Occitanie,30,Gard,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2783,532,9105957.00,76,Occitanie,32,Gers,00,0 salarié
+Fonds de solidarité,VOLET1,6011,1285,24683359.00,76,Occitanie,32,Gers,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2031,438,10620397.00,76,Occitanie,32,Gers,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,621,130,4494252.00,76,Occitanie,32,Gers,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,347,63,4434235.00,76,Occitanie,32,Gers,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,71,13,2370313.00,76,Occitanie,32,Gers,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,2774,675,5753071.00,76,Occitanie,32,Gers,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,15325,3100,43677154.00,76,Occitanie,31,Haute-Garonne,00,0 salarié
+Fonds de solidarité,VOLET1,38578,7693,143725554.00,76,Occitanie,31,Haute-Garonne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,16590,3090,96015921.00,76,Occitanie,31,Haute-Garonne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,6531,1140,50796606.00,76,Occitanie,31,Haute-Garonne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,3397,517,53123646.00,76,Occitanie,31,Haute-Garonne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1196,204,42815935.00,76,Occitanie,31,Haute-Garonne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,159,29,12164518.00,76,Occitanie,31,Haute-Garonne,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,43,12,4894545.00,76,Occitanie,31,Haute-Garonne,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,8,4,1318981.00,76,Occitanie,31,Haute-Garonne,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,12,3,1338337.00,76,Occitanie,31,Haute-Garonne,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,12825,2942,22838999.00,76,Occitanie,31,Haute-Garonne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,5305,716,22357079.00,76,Occitanie,65,Hautes-Pyrénées,00,0 salarié
+Fonds de solidarité,VOLET1,9603,1651,43801392.00,76,Occitanie,65,Hautes-Pyrénées,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,3842,647,26605382.00,76,Occitanie,65,Hautes-Pyrénées,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1356,194,13906862.00,76,Occitanie,65,Hautes-Pyrénées,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,746,100,12976693.00,76,Occitanie,65,Hautes-Pyrénées,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,151,25,5324381.00,76,Occitanie,65,Hautes-Pyrénées,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,33,5,2183378.00,76,Occitanie,65,Hautes-Pyrénées,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,5055,844,10539526.00,76,Occitanie,65,Hautes-Pyrénées,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,24921,4135,87359868.00,76,Occitanie,34,Hérault,00,0 salarié
+Fonds de solidarité,VOLET1,48824,9168,190664872.00,76,Occitanie,34,Hérault,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,16652,3094,96133673.00,76,Occitanie,34,Hérault,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,5950,1075,49499173.00,76,Occitanie,34,Hérault,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,2863,462,43193870.00,76,Occitanie,34,Hérault,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,924,162,34365670.00,76,Occitanie,34,Hérault,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,176,28,14291844.00,76,Occitanie,34,Hérault,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,15,4,2161503.00,76,Occitanie,34,Hérault,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,18,4,2474312.00,76,Occitanie,34,Hérault,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,13493,2918,25772980.00,76,Occitanie,34,Hérault,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,3722,615,13741702.00,76,Occitanie,46,Lot,00,0 salarié
+Fonds de solidarité,VOLET1,5928,1157,24587896.00,76,Occitanie,46,Lot,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,1940,390,11663030.00,76,Occitanie,46,Lot,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,569,121,4526389.00,76,Occitanie,46,Lot,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,241,42,3336447.00,76,Occitanie,46,Lot,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,103,13,3931341.00,76,Occitanie,46,Lot,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,2505,646,4452359.00,76,Occitanie,46,Lot,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2046,336,8659051.00,76,Occitanie,48,Lozère,00,0 salarié
+Fonds de solidarité,VOLET1,2919,567,11970175.00,76,Occitanie,48,Lozère,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,989,185,5576868.00,76,Occitanie,48,Lozère,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,224,51,1466237.00,76,Occitanie,48,Lozère,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,115,22,2333257.00,76,Occitanie,48,Lozère,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,38,8,1120839.00,76,Occitanie,48,Lozère,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,2338,544,3929673.00,76,Occitanie,48,Lozère,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,11902,1916,43841216.00,76,Occitanie,66,Pyrénées-Orientales,00,0 salarié
+Fonds de solidarité,VOLET1,18009,3484,70743983.00,76,Occitanie,66,Pyrénées-Orientales,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,6524,1244,38518001.00,76,Occitanie,66,Pyrénées-Orientales,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2157,423,17692256.00,76,Occitanie,66,Pyrénées-Orientales,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,975,179,16170925.00,76,Occitanie,66,Pyrénées-Orientales,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,340,60,13935872.00,76,Occitanie,66,Pyrénées-Orientales,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,39,10,2609577.00,76,Occitanie,66,Pyrénées-Orientales,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,5907,1216,11067158.00,76,Occitanie,66,Pyrénées-Orientales,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,4242,845,12277212.00,76,Occitanie,81,Tarn,00,0 salarié
+Fonds de solidarité,VOLET1,10312,2209,37860060.00,76,Occitanie,81,Tarn,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,3566,744,18474016.00,76,Occitanie,81,Tarn,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1090,224,9044898.00,76,Occitanie,81,Tarn,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,509,102,5956222.00,76,Occitanie,81,Tarn,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,146,32,4696260.00,76,Occitanie,81,Tarn,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,18,3,690765.00,76,Occitanie,81,Tarn,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,3822,881,6873486.00,76,Occitanie,81,Tarn,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2710,549,7919880.00,76,Occitanie,82,Tarn-et-Garonne,00,0 salarié
+Fonds de solidarité,VOLET1,6487,1406,24782652.00,76,Occitanie,82,Tarn-et-Garonne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2298,486,11776880.00,76,Occitanie,82,Tarn-et-Garonne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,712,159,4842938.00,76,Occitanie,82,Tarn-et-Garonne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,329,59,4185198.00,76,Occitanie,82,Tarn-et-Garonne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,92,19,2792079.00,76,Occitanie,82,Tarn-et-Garonne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,2468,591,4236066.00,76,Occitanie,82,Tarn-et-Garonne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,13360,2560,44308794.00,52,Pays de la Loire,44,Loire-Atlantique,00,0 salarié
+Fonds de solidarité,VOLET1,31978,6526,137972931.00,52,Pays de la Loire,44,Loire-Atlantique,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,14890,2736,89269349.00,52,Pays de la Loire,44,Loire-Atlantique,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,5326,972,46831945.00,52,Pays de la Loire,44,Loire-Atlantique,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,2683,444,42483552.00,52,Pays de la Loire,44,Loire-Atlantique,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,995,170,43139687.00,52,Pays de la Loire,44,Loire-Atlantique,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,87,17,5654885.00,52,Pays de la Loire,44,Loire-Atlantique,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,20,5,2957679.00,52,Pays de la Loire,44,Loire-Atlantique,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,8594,2006,16951492.00,52,Pays de la Loire,44,Loire-Atlantique,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,5798,1162,18284472.00,52,Pays de la Loire,49,Maine-et-Loire,00,0 salarié
+Fonds de solidarité,VOLET1,18408,3738,77651163.00,52,Pays de la Loire,49,Maine-et-Loire,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,6999,1464,39363919.00,52,Pays de la Loire,49,Maine-et-Loire,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2497,516,20728072.00,52,Pays de la Loire,49,Maine-et-Loire,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1407,225,19121900.00,52,Pays de la Loire,49,Maine-et-Loire,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,524,87,18222906.00,52,Pays de la Loire,49,Maine-et-Loire,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,67,17,4062729.00,52,Pays de la Loire,49,Maine-et-Loire,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,5043,1163,10378571.00,52,Pays de la Loire,49,Maine-et-Loire,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,2292,454,6918512.00,52,Pays de la Loire,53,Mayenne,00,0 salarié
+Fonds de solidarité,VOLET1,6105,1313,23448687.00,52,Pays de la Loire,53,Mayenne,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2330,505,12215772.00,52,Pays de la Loire,53,Mayenne,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,768,168,6224358.00,52,Pays de la Loire,53,Mayenne,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,297,61,4250711.00,52,Pays de la Loire,53,Mayenne,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,138,26,3780108.00,52,Pays de la Loire,53,Mayenne,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,1860,408,3558412.00,52,Pays de la Loire,53,Mayenne,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,3801,738,13613774.00,52,Pays de la Loire,72,Sarthe,00,0 salarié
+Fonds de solidarité,VOLET1,10804,2111,44571088.00,52,Pays de la Loire,72,Sarthe,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,4204,850,23181471.00,52,Pays de la Loire,72,Sarthe,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1421,282,10940127.00,52,Pays de la Loire,72,Sarthe,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,850,148,14271338.00,52,Pays de la Loire,72,Sarthe,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,257,48,10959156.00,52,Pays de la Loire,72,Sarthe,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,2893,671,5209181.00,52,Pays de la Loire,72,Sarthe,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,8934,1588,34481275.00,52,Pays de la Loire,85,Vendée,00,0 salarié
+Fonds de solidarité,VOLET1,16522,3427,71359904.00,52,Pays de la Loire,85,Vendée,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,7508,1526,46580003.00,52,Pays de la Loire,85,Vendée,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2208,478,21069757.00,52,Pays de la Loire,85,Vendée,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,968,180,20425626.00,52,Pays de la Loire,85,Vendée,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,397,84,14431979.00,52,Pays de la Loire,85,Vendée,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,37,8,2361075.00,52,Pays de la Loire,85,Vendée,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,21,5,2133714.00,52,Pays de la Loire,85,Vendée,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,4312,1044,8589017.00,52,Pays de la Loire,85,Vendée,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,4341,730,15734038.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,00,0 salarié
+Fonds de solidarité,VOLET1,7986,1417,33627127.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,2716,467,16123586.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,669,126,4782396.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,268,47,4349811.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,119,21,3398935.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,14,3,966398.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,2961,564,5906957.00,93,Provence-Alpes-Côte d'Azur,04,Alpes-de-Haute-Provence,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,25239,4088,85417038.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,00,0 salarié
+Fonds de solidarité,VOLET1,60663,10169,245074575.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,22063,3486,138212260.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,8921,1273,85219507.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,4941,701,94064909.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1759,251,82952139.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,232,44,20771580.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,37,9,5480190.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,20,4,3336971.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,20,4,1948398.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,18386,3537,35874773.00,93,Provence-Alpes-Côte d'Azur,06,Alpes-Maritimes,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,27715,5062,86668156.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,00,0 salarié
+Fonds de solidarité,VOLET1,76815,14068,292105821.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,28689,5058,166446035.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,10123,1680,87851696.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,5313,803,83608561.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,1636,282,67898473.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,237,50,18328746.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,13,4,2382250.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,15,4,2400003.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,31,200 à 249 salariés
+Fonds de solidarité,VOLET1,47,9,8879436.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,32,250 à 499 salariés
+Fonds de solidarité,VOLET1,23,4,3650321.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,41,500 à 999 salariés
+Fonds de solidarité,VOLET1,20972,4374,37882631.00,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,4148,678,16207587.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,00,0 salarié
+Fonds de solidarité,VOLET1,8758,1460,41939880.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,4082,616,27354474.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,1555,248,16396211.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,826,128,12103147.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,222,39,6632262.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,9,3,832844.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,23,4,1992157.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,6738,1023,16008329.00,93,Provence-Alpes-Côte d'Azur,05,Hautes-Alpes,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,24729,4396,87527333.00,93,Provence-Alpes-Côte d'Azur,83,Var,00,0 salarié
+Fonds de solidarité,VOLET1,45164,8898,180652065.00,93,Provence-Alpes-Côte d'Azur,83,Var,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,14952,2879,90934133.00,93,Provence-Alpes-Côte d'Azur,83,Var,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,4959,902,45486699.00,93,Provence-Alpes-Côte d'Azur,83,Var,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,2223,396,38150614.00,93,Provence-Alpes-Côte d'Azur,83,Var,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,811,151,37809019.00,93,Provence-Alpes-Côte d'Azur,83,Var,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,91,20,7919983.00,93,Provence-Alpes-Côte d'Azur,83,Var,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,13,4,1983859.00,93,Provence-Alpes-Côte d'Azur,83,Var,22,100 à 199 salariés
+Fonds de solidarité,VOLET1,12285,2762,23298192.00,93,Provence-Alpes-Côte d'Azur,83,Var,NN,Etablissement non employeur
+Fonds de solidarité,VOLET1,10694,1897,36424492.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,00,0 salarié
+Fonds de solidarité,VOLET1,26729,4905,107426508.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,01,1 ou 2 salariés
+Fonds de solidarité,VOLET1,8285,1569,47130262.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,02,3 à 5 salariés
+Fonds de solidarité,VOLET1,2676,494,23630182.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,03,6 à 9 salariés
+Fonds de solidarité,VOLET1,1150,186,19484003.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,11,10 à 19 salariés
+Fonds de solidarité,VOLET1,376,73,14251109.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,12,20 à 49 salariés
+Fonds de solidarité,VOLET1,52,9,5326194.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,21,50 à 99 salariés
+Fonds de solidarité,VOLET1,7395,1621,15221075.00,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,NN,Etablissement non employeur

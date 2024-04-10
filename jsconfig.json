@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "lib": ["es2017", "dom"],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

@@ -1,0 +1,19 @@
+.dt.champ {
+    display: table-row;
+}
+
+.dt.champ td {
+    display: table-cell;
+}
+
+.dt.champ td p {
+    float: right;
+} 
+
+.dt.total-row {
+    font-weight: bold;
+}
+
+.dt.total-row p {
+    float: right;
+}
